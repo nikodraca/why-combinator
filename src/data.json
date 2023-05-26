@@ -4586,205 +4586,205 @@
   {
     "name": "SparkGrid",
     "description": "Scalable and flexible serverless architectures for seamless computing",
-    "img": "/src/assets/logos/SparkGrid.png",
+    "img": "/img/logos/SparkGrid.png",
     "real": false
   },
   {
     "name": "DataZen",
     "description": "Achieve zen-like simplicity and efficiency in data management with powerful database solutions",
-    "img": "/src/assets/logos/DataZen.png",
+    "img": "/img/logos/DataZen.png",
     "real": false
   },
   {
     "name": "Codejet",
     "description": "Fuse the power of coding and generative AI",
-    "img": "/src/assets/logos/Codejet.png",
+    "img": "/img/logos/Codejet.png",
     "real": false
   },
   {
     "name": "Webric",
     "description": "Decentralized collaboration and secure data sharing through web3",
-    "img": "/src/assets/logos/Webric.png",
+    "img": "/img/logos/Webric.png",
     "real": false
   },
   {
     "name": "Bee",
     "description": "Proactive alerts to keep your systems safe and secure",
-    "img": "/src/assets/logos/Bee.png",
+    "img": "/img/logos/Bee.png",
     "real": false
   },
   {
     "name": "Pillow",
     "description": "Log monitoring to detect anomalies in your server's performance",
-    "img": "/src/assets/logos/Pillow.png",
+    "img": "/img/logos/Pillow.png",
     "real": false
   },
   {
     "name": "Metamint",
     "description": "Crafting the Metaverse through Blockchain-powered digital assets",
-    "img": "/src/assets/logos/Metamint.png",
+    "img": "/img/logos/Metamint.png",
     "real": false
   },
   {
     "name": "Poppet",
     "description": "Grow your wealth effortlessly with our intuitive investment platform",
-    "img": "/src/assets/logos/Poppet.png",
+    "img": "/img/logos/Poppet.png",
     "real": false
   },
   {
     "name": "Zappify",
     "description": "Lightning-fast performance and effortless scalability through serverless technology",
-    "img": "/src/assets/logos/Zappify.png",
+    "img": "/img/logos/Zappify.png",
     "real": false
   },
   {
     "name": "Whisper",
     "description": "AI-powered monitoring solutions to listen closely to your systems and detect any anomalies in real-time",
-    "img": "/src/assets/logos/Whisper.png",
+    "img": "/img/logos/Whisper.png",
     "real": false
   },
   {
     "name": "Float",
     "description": "web3 platform that seamlessly integrates AI, enabling you to soar above boundaries and unlock limitless possibilities",
-    "img": "/src/assets/logos/Float.png",
+    "img": "/img/logos/Float.png",
     "real": false
   },
   {
     "name": "Boost",
     "description": "Advanced web3 solutions for global asset management",
-    "img": "/src/assets/logos/Boost.png",
+    "img": "/img/logos/Boost.png",
     "real": false
   },
   {
     "name": "Connect",
     "description": "Connect your systems effortlessly with our AI-driven platform for seamless integration",
-    "img": "/src/assets/logos/Connect.png",
+    "img": "/img/logos/Connect.png",
     "real": false
   },
   {
     "name": "Fizzpop",
     "description": "Data management with simple ETL tools for efficient processing",
-    "img": "/src/assets/logos/Fizzpop.png",
+    "img": "/img/logos/Fizzpop.png",
     "real": false
   },
   {
     "name": "Whisker",
     "description": "Navigate customer relationships with precision",
-    "img": "/src/assets/logos/Whisker.png",
+    "img": "/img/logos/Whisker.png",
     "real": false
   },
   {
     "name": "Cybertron",
     "description": "Transform your ideas into stunning apps with the futuristic no-code platform",
-    "img": "/src/assets/logos/Cybertron.png",
+    "img": "/img/logos/Cybertron.png",
     "real": false
   },
   {
     "name": "Tronix",
     "description": "Build apps effortlessly with AI-powered no-code technology",
-    "img": "/src/assets/logos/Tronix.png",
+    "img": "/img/logos/Tronix.png",
     "real": false
   },
   {
     "name": "Zapcode",
     "description": "No-code platform for building augmented reality experiences",
-    "img": "/src/assets/logos/Zapcode.png",
+    "img": "/img/logos/Zapcode.png",
     "real": false
   },
   {
     "name": "Shiftgen",
     "description": "Shiftgen uses AI to automate shift scheduling and optimize workforce management",
-    "img": "/src/assets/logos/Shiftgen.png",
+    "img": "/img/logos/Shiftgen.png",
     "real": false
   },
   {
     "name": "Minitask",
     "description": "Project management tool optimized for remote work, designed to help teams stay connected and productive",
-    "img": "/src/assets/logos/Minitask.png",
+    "img": "/img/logos/Minitask.png",
     "real": false
   },
   {
     "name": "Wavefront",
     "description": "Monitors and analyze cloud-based systems at scale",
-    "img": "/src/assets/logos/Wavefront.png",
+    "img": "/img/logos/Wavefront.png",
     "real": false
   },
   {
     "name": "Blockwaze",
     "description": "Secures and streamlines logistics management with blockchain technology",
-    "img": "/src/assets/logos/Blockwaze.png",
+    "img": "/img/logos/Blockwaze.png",
     "real": false
   },
   {
     "name": "Atomix",
     "description": "Distributed database system for quick, reliable data storage and retrieval",
-    "img": "/src/assets/logos/Atomix.png",
+    "img": "/img/logos/Atomix.png",
     "real": false
   },
   {
     "name": "Memento",
     "description": "Provides secure digital asset management for individual clients and businesses",
-    "img": "/src/assets/logos/Memento.png",
+    "img": "/img/logos/Memento.png",
     "real": false
   },
   {
     "name": "Quadio",
     "description": "Easy-to-use podcast hosting platform with all the features you need",
-    "img": "/src/assets/logos/Quadio.png",
+    "img": "/img/logos/Quadio.png",
     "real": false
   },
   {
     "name": "Sweepsy",
     "description": "Accurate automated transcription services for businesses of all sizes",
-    "img": "/src/assets/logos/Sweepsy.png",
+    "img": "/img/logos/Sweepsy.png",
     "real": false
   },
   {
     "name": "Artilect",
     "description": "Advanced natural language processing platform.",
-    "img": "/src/assets/logos/Artilect.png",
+    "img": "/img/logos/Artilect.png",
     "real": false
   },
   {
     "name": "Brainwave",
     "description": "Automate and streamline your marketing campaigns with a user-friendly software tool powered by AI.",
-    "img": "/src/assets/logos/Brainwave.png",
+    "img": "/img/logos/Brainwave.png",
     "real": false
   },
   {
     "name": "Mindmeld",
     "description": "Improve communication with a natural language understanding AI platform for voice and chat communication.",
-    "img": "/src/assets/logos/Mindmeld.png",
+    "img": "/img/logos/Mindmeld.png",
     "real": false
   },
   {
     "name": "Crayon",
     "description": "Visualize and analyze customer behavior",
-    "img": "/src/assets/logos/Crayon.png",
+    "img": "/img/logos/Crayon.png",
     "real": false
   },
   {
     "name": "Rockpools",
     "description": "Data analytics platform that provides actionable insights and real-time reporting for businesses",
-    "img": "/src/assets/logos/Rockpools.png",
+    "img": "/img/logos/Rockpools.png",
     "real": false
   },
   {
     "name": "Flutter",
     "description": "Find love and meaningful connections through thoughtful matchmaking and personalized profiles",
-    "img": "/src/assets/logos/Flutter.png",
+    "img": "/img/logos/Flutter.png",
     "real": false
   },
   {
     "name": "SnailSwap",
     "description": "Decentralized exchange platform for slow-moving cryptocurrencies",
-    "img": "/src/assets/logos/SnailSwap.png",
+    "img": "/img/logos/SnailSwap.png",
     "real": false
   },
   {
     "name": "Pandapay",
     "description": "Payment processing platform that allows users to transact with their favorite cryptocurrencies",
-    "img": "/src/assets/logos/Pandapay.png",
+    "img": "/img/logos/Pandapay.png",
     "real": false
   }
 ]

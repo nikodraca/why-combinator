@@ -7,7 +7,7 @@ import { Button, Main } from "../components";
 export const App: Component = () => {
   return (
     <Main>
-      <img src="/src/assets/logo.png" width={75} height={75} />
+      <img src="/img/logo.png" width={75} height={75} />
       <h2>
         Why <span style={{ color: theme.colors.orange }}>Combinator</span>
       </h2>

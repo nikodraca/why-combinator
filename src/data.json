@@ -1,0 +1,4790 @@
+[
+  {
+    "name": "Rippling",
+    "description": "Magically Simplify Your HR & IT",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2758f61527dbe7c44609bc669149123e07509b8d.png",
+    "real": true
+  },
+  {
+    "name": "Gusto",
+    "description": "Provides growing businesses with everything to take care of their team",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6ce7845c2e268525f5f04915212ac0a106fb7e3d.png",
+    "real": true
+  },
+  {
+    "name": "Flexport",
+    "description": "Platform for global logistics.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/897ef3a983ed364ca3122044cf2d2a92e05b34bb.png",
+    "real": true
+  },
+  {
+    "name": "Scale AI",
+    "description": "Data-centric infrastructure to accelerate the development of AI",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8c45a78eb56f4a95e41a3a77960b00fdfb4cd918.png",
+    "real": true
+  },
+  {
+    "name": "Benchling",
+    "description": "Unlocking the power of biotech with modern software for modern science",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/56dfbb621883fb62890bd66d7bd967984b974c12.png",
+    "real": true
+  },
+  {
+    "name": "Checkr",
+    "description": "People infrastructure for the future of work",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/211825b572def7bbe7c182d84f166129bc978b6b.png",
+    "real": true
+  },
+  {
+    "name": "Flock Safety",
+    "description": "The first public safety operating system that eliminates crime.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ee69b5c905088288ff0fc007921dde14514a40a1.png",
+    "real": true
+  },
+  {
+    "name": "Convoy",
+    "description": "The world's most efficient digital freight network.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/627387718c7fc43469f89a36ed26d7378497cb09.png",
+    "real": true
+  },
+  {
+    "name": "EquipmentShare",
+    "description": "Cloud solutions for the construction industry.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ad05853522c217d92c372ba8883ff6b45dd83d99.png",
+    "real": true
+  },
+  {
+    "name": "Retool",
+    "description": "Build internal tools fast.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0a4773159389a2bd38c10e6e9b5761d0a3666c30.png",
+    "real": true
+  },
+  {
+    "name": "GrubMarket",
+    "description": "Technology enabler and digital transformer of American food supply…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a10cd6dd027a6f9927f0c0574be6404d3ed0c014.png",
+    "real": true
+  },
+  {
+    "name": "Ironclad",
+    "description": "Digital contracting platform for legal teams.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/617ef74a3e62398db60a2179add2a7f75d8bbd18.png",
+    "real": true
+  },
+  {
+    "name": "Podium",
+    "description": "A communication, marketing, and payments platform for local…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d90bc164db5dd25a81e6dcfa222470eadf2c783a.png",
+    "real": true
+  },
+  {
+    "name": "Lattice",
+    "description": "Modern people management platform.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a3bbe5d7f8ca797e1e542c827ac00dda238b0b81.png",
+    "real": true
+  },
+  {
+    "name": "Newfront",
+    "description": "Modern insurance brokerage.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ce6ff3e82371f1e059506cc44d9d76fe899d0169.png",
+    "real": true
+  },
+  {
+    "name": "Go1",
+    "description": "A learning platform that enables you to train your staff or customers.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e1004ce910aafa76388e32ce5e89e431e2a22211.png",
+    "real": true
+  },
+  {
+    "name": "Modern Treasury",
+    "description": "Payment operations tools for money movement.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a530f58c560c991cc2b9487c24cfa90465e961d6.png",
+    "real": true
+  },
+  {
+    "name": "Vetcove",
+    "description": "Powering the animal health supply chain.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c14ca2790645cac39d58fb3153dab0e3e2c7e005.png",
+    "real": true
+  },
+  {
+    "name": "ShipBob",
+    "description": "Providing Amazon level logistics to e-commerce businesses.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a7fe6af4f0d7680132345ae356f0c1abe1939e2a.png",
+    "real": true
+  },
+  {
+    "name": "Sift",
+    "description": "The Leader in Digital Trust & Safety",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4eb5f9ca677956a27183ce3ae798b02616a1e3e2.png",
+    "real": true
+  },
+  {
+    "name": "Front",
+    "description": "Customer communications hub for building strong relationships",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/bf249c52ada525d9126563265f52ec4b3105ea54.png",
+    "real": true
+  },
+  {
+    "name": "Vanta",
+    "description": "Helps simplify and centralize security for organizations of all sizes",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/467c166ddaf90fc9994578d1004a017f5f1a2407.png",
+    "real": true
+  },
+  {
+    "name": "Pave",
+    "description": "Plan, communicate, and benchmark your compensation in real-time.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b36a8ba8f46bbf87e4684ac2842bfe6dbe3cebc3.png",
+    "real": true
+  },
+  {
+    "name": "Mux",
+    "description": "Video infrastructure for developers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a333c6fd617000a30a9b5b1802346d0bfcf9e3fa.png",
+    "real": true
+  },
+  {
+    "name": "Jasper.ai",
+    "description": "Jasper is a leader in creating content using Artificial Intelligence",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/18b90074b86630e3f25f2673c29d94e8c03c9018.png",
+    "real": true
+  },
+  {
+    "name": "Snapdocs",
+    "description": "Snapdocs digitizes real estate closings",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4391e46749d4be871f138c61fa409a9979d7739e.png",
+    "real": true
+  },
+  {
+    "name": "EasyPost",
+    "description": "The shipping infrastructure of the internet.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/37f58af9ede41176af776f779ec507cd820dd514.png",
+    "real": true
+  },
+  {
+    "name": "Apollo",
+    "description": "Apollo helps engineering teams accelerate delivery",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3d684926422fe826a03f5d68cd83bdb413d1c454.png",
+    "real": true
+  },
+  {
+    "name": "Mashgin",
+    "description": "Self-Checkout using Computer Vision.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/bd7ff2b3db9bbbc82a79afababdad873d16b6e54.png",
+    "real": true
+  },
+  {
+    "name": "Veriff",
+    "description": "AI-powered identity verification solution for fraud prevention.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5fb14cdcb75e548883b7886a7495ab57d679fcb5.png",
+    "real": true
+  },
+  {
+    "name": "Zip",
+    "description": "The future of B2B spend",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/36e20f89b10663bb956c6daad5f19a3ee1b8cf24.png",
+    "real": true
+  },
+  {
+    "name": "Salt Security",
+    "description": "Protects organizations from getting breached through their APIs.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ee67d3955bee952b7146cbf36150b372e91df27a.png",
+    "real": true
+  },
+  {
+    "name": "CoinTracker",
+    "description": "The gold standard in cryptocurrency portfolio tracking and taxes",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/172469006c88092ffe4dad7ca65d735ec9d87502.png",
+    "real": true
+  },
+  {
+    "name": "CaptivateIQ",
+    "description": "Agile commission software to design, deploy & adapt commission plans.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d6335987a80e28fc8c303050aa104d2e7285ef01.png",
+    "real": true
+  },
+  {
+    "name": "Teleport",
+    "description": "The easiest, most secure way to access all your infrastructure",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/232b4ff716a738c3027603248f32b30a04836498.png",
+    "real": true
+  },
+  {
+    "name": "Titan",
+    "description": "Titan is building a new Schwab.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/de26262abf4718d6e7675de4856992155ef62ab1.png",
+    "real": true
+  },
+  {
+    "name": "SmartAsset",
+    "description": "Marketplace connecting consumers to financial advisors",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d79adb13b4acb20f9e08e876a7ad54319a3e7a10.png",
+    "real": true
+  },
+  {
+    "name": "People.ai",
+    "description": "Harnesses business activity to unlock growth.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/aa9f2a7f199091128aa875d1cb80df0bd183358b.png",
+    "real": true
+  },
+  {
+    "name": "Vendr.com",
+    "description": "Vendr is changing how companies find, buy and manage SaaS.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a0a18a94193b88aba9845e4a0cd83768e08d5222.png",
+    "real": true
+  },
+  {
+    "name": "Quantstamp",
+    "description": "Security auditing for Web3",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2dc377e8276c3eddb8f99613f0b90ed45fea6ee7.png",
+    "real": true
+  },
+  {
+    "name": "Human Interest",
+    "description": "The 401(k) for small and medium-sized businesses.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b1d2338596e801f39e8a6c668164ac020956c28f.png",
+    "real": true
+  },
+  {
+    "name": "Standard AI",
+    "description": "AI-powered checkout for retail.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/06e2c69e078611382e48b1e2dbdf6cdf9d2e89cd.png",
+    "real": true
+  },
+  {
+    "name": "Heap",
+    "description": "Captures user interactions with no code to generate analytics.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0be58a0e5449236d7f3e0dbb741e2aadde9e2881.png",
+    "real": true
+  },
+  {
+    "name": "Apollo.io",
+    "description": "Apollo is the foundation of your entire go-to-market strategy.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/90090292c269ac533c4bfec2629f6be4bfd345fd.png",
+    "real": true
+  },
+  {
+    "name": "Fountain",
+    "description": "Talent acquisition platform for hiring hourly workers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/28a140ac4ad946fb66be477d6337e2d2fd5f8092.png",
+    "real": true
+  },
+  {
+    "name": "QuickNode",
+    "description": "Tools & infra to build and scale high-quality blockchain applications.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/641cf157d5c98793f172eb12060ccbaf1c980255.png",
+    "real": true
+  },
+  {
+    "name": "AtoB",
+    "description": "Rebuilding global transportation payments.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/12375b2a52ee867d95939da19768e87ca0b830e2.png",
+    "real": true
+  },
+  {
+    "name": "Observe.AI",
+    "description": "Contact center AI platform.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1a491d2ba965415d5df942f6ec5f8b631059b253.png",
+    "real": true
+  },
+  {
+    "name": "Middesk",
+    "description": "We make it easier for B2B companies to transact with one another",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/fedf74c9ad94dc349198477810eed3f94568f7ec.png",
+    "real": true
+  },
+  {
+    "name": "Kalshi",
+    "description": "1st federally regulated exchange where people can trade on events",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ad3a7dcdbe0f26e0087eda6d5bdf6e1e2ef378aa.png",
+    "real": true
+  },
+  {
+    "name": "Rescale",
+    "description": "High Performance Computing Built for the Cloud",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/711fea8d5911eff2cca6ae58f7c2371f123c9dc1.png",
+    "real": true
+  },
+  {
+    "name": "TRM Labs",
+    "description": "TRM is building a safer financial system for billions of people.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/19aa5130e3a0a349d200e7510f0c2fe8439a646f.png",
+    "real": true
+  },
+  {
+    "name": "Postscript",
+    "description": "The SMS revenue platform for e-commerce merchants",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/feb213c736f108f91e8194abd3b972fee0e217c3.png",
+    "real": true
+  },
+  {
+    "name": "Odeko",
+    "description": "Our operations software makes it easier to run--and grow--your cafe",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3b1e7b7eb171eccce88cf7089d2997df49764f1c.png",
+    "real": true
+  },
+  {
+    "name": "Mutiny",
+    "description": "Uses AI and data to convert website visitors into customers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0e506d56d7c881b7aaf4341d22a276be88c1ec16.png",
+    "real": true
+  },
+  {
+    "name": "Shogun",
+    "description": "Shogun empowers brands to create exceptional ecommerce experience.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c4c9d88ca349da23988cd75431bf7ae58301ff05.png",
+    "real": true
+  },
+  {
+    "name": "Instawork",
+    "description": "A flexible work app that connects businesses with hourly workers.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1712f8a08b08bb04e192934a1098d1b5144c875b.png",
+    "real": true
+  },
+  {
+    "name": "Vouch",
+    "description": "Insurance and risk management tools for startups and growth-stage…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3d1d486d4edef6bd293253ef438f3cf9c1880507.png",
+    "real": true
+  },
+  {
+    "name": "Jerry",
+    "description": "Jerry makes it really easy to save time and money on car expenses.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f9257ab537c34ef4ee8f5d98bf4afb1793755e28.png",
+    "real": true
+  },
+  {
+    "name": "Alpaca",
+    "description": "API-first stock and crypto brokerage platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/52a69dab52f99ab972ab44d22d038a190f461ac4.png",
+    "real": true
+  },
+  {
+    "name": "SingleStore",
+    "description": "The cloud-native, operational database built for speed and scale.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4c72efc7873353258c9e7e598b2787bb4764a7b6.png",
+    "real": true
+  },
+  {
+    "name": "InfluxData",
+    "description": "The platform for building and operating time series applications.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/52f8bfabfa73534a4e180ab67b04914310f2a95e.png",
+    "real": true
+  },
+  {
+    "name": "Fly.io",
+    "description": "Run full stack apps close to your users.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1f45b27d4d49f4a54250a3f57030ed625d633c74.png",
+    "real": true
+  },
+  {
+    "name": "Hightouch",
+    "description": "Sync data from your warehouse into the tools your business teams rely…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b36436bcb84be8e217d46771a3d924ea6ba393a8.png",
+    "real": true
+  },
+  {
+    "name": "Ridecell",
+    "description": "Fleet Transformation Cloud-Automate to Maximize 🌎 usage &…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/993ff6073116071031609f9e3bed69101446082b.png",
+    "real": true
+  },
+  {
+    "name": "OpenPhone",
+    "description": "The all-in-one business phone for teams.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ab46f30f5ef05d03f225ef3da3e32ae1664366c2.png",
+    "real": true
+  },
+  {
+    "name": "Hiro Systems",
+    "description": "Hiro Systems build developer tools for Bitcoin and the Stacks layer",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/96d6585dd5c6970a5bdb324b4a4d6e71b977b149.png",
+    "real": true
+  },
+  {
+    "name": "Lob",
+    "description": "Lob is the only automation platform that transforms direct mail into…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/400c96e59ec9e937535827fdd7b324a248dec955.png",
+    "real": true
+  },
+  {
+    "name": "Instabug",
+    "description": "Mobile Apps Observability and Performance Monitoring Platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/891bf2cd461f7e0ea63438afa0048989e0e8926b.png",
+    "real": true
+  },
+  {
+    "name": "VergeSense",
+    "description": "AI-Powered Building Management",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8ae8f5a94af62b1cae1e783c5ea5dc76b3ccc975.png",
+    "real": true
+  },
+  {
+    "name": "Mezmo",
+    "description": "Observability platform to control all of your log data",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f3a71ea034c7bfc9aef393b47b27829a3413f0b3.png",
+    "real": true
+  },
+  {
+    "name": "Routable",
+    "description": "Simplifying payouts at scale",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/91b6076921a7439ff3b490dee3e269710a65a792.png",
+    "real": true
+  },
+  {
+    "name": "HackerRank",
+    "description": "Accelerate the World's Innovation",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6df4cc84a7b27db9480fd2d7bff6fa62ff56aacb.png",
+    "real": true
+  },
+  {
+    "name": "Balance",
+    "description": "The first digital payment experience company, built for B2B.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0f140790f5129a38a1edf2e297434c283bb0ca7c.png",
+    "real": true
+  },
+  {
+    "name": "Ledger Investing",
+    "description": "Marketplace for insurance securitization.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3326697b08953d5914d07d4d39f5bca122a18fa8.png",
+    "real": true
+  },
+  {
+    "name": "Mighty Buildings",
+    "description": "3D printing beautiful, high-quality, and sustainable homes.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0751a2456763d15191cc0c59216be6ab7810d208.png",
+    "real": true
+  },
+  {
+    "name": "Delphia",
+    "description": "An investment collective that builds your wealth using your data.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/20832b0514186a0afae0afcfd60fcce0de0223c4.png",
+    "real": true
+  },
+  {
+    "name": "Treasury Prime",
+    "description": "Embedded banking software platform and marketplace",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/fb0b666cc71eaf3fdcc64a67ec3b353f2339e37f.png",
+    "real": true
+  },
+  {
+    "name": "Deepgram",
+    "description": "Building foundational AI for speech transcription and understanding.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/66d6853111f0008b026e5c57ef1f8860e400c956.png",
+    "real": true
+  },
+  {
+    "name": "Plate IQ",
+    "description": "Automated Accounts Payable",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2ddaee10acb71c657308a3d62234972fbca8392d.png",
+    "real": true
+  },
+  {
+    "name": "Torch",
+    "description": "",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/166d205fe9401e4dad34c43418600c86a5b2f471.png",
+    "real": true
+  },
+  {
+    "name": "RevenueCat",
+    "description": "A simple API for managing in-app subscriptions",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f8dc20fcc951e007754d6896f9f4c42ee9502a51.png",
+    "real": true
+  },
+  {
+    "name": "Nova Credit",
+    "description": "Bridging a world of consumer-permissioned credit data",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4a1acae554a32ce11687de5ac7b708d914b04c5b.png",
+    "real": true
+  },
+  {
+    "name": "Karat Financial",
+    "description": "Better financial services for creators",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b45b4a40ee6990bb094f256f20eeef3730bba066.png",
+    "real": true
+  },
+  {
+    "name": "Dover",
+    "description": "Supercharge your hiring",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2f909fcfa4b1bfac3a61c82e3d1b8ee42e93bf79.png",
+    "real": true
+  },
+  {
+    "name": "UpKeep",
+    "description": "Mobile-first software for maintenance teams.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/faa6cbcaf3126fdfe71b274528ba20ca29f30eba.png",
+    "real": true
+  },
+  {
+    "name": "TrueNorth",
+    "description": "TrueNorth gives truckers a single place to manage their business.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/88bc0fa14209c82724c39b4b394f18e06ea23e95.png",
+    "real": true
+  },
+  {
+    "name": "Atlas",
+    "description": "The charge card with access to coveted experiences.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5267aca318aea43396ca74890f5c296b36c0e1e7.png",
+    "real": true
+  },
+  {
+    "name": "Nuvocargo",
+    "description": "Your all-in-one digital platform for trade across the Americas",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/275e2a78b8a55a63263d69a44e49471cf75b7b7f.png",
+    "real": true
+  },
+  {
+    "name": "OneSignal",
+    "description": "Engage customers through personalized omni-channel messaging",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e909ca477c49ecc4630b711eb00e53523cd42a90.png",
+    "real": true
+  },
+  {
+    "name": "Convictional",
+    "description": "Onboard and integrate suppliers for dropship and marketplace",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/fba139c03e77ddf11aa6ea786e0630947149fce9.png",
+    "real": true
+  },
+  {
+    "name": "Spruce Systems, Inc.",
+    "description": "Spruce lets users control their data across the web.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/68a1ca24e9abbfbe3da047d20591dcccda56d1b4.png",
+    "real": true
+  },
+  {
+    "name": "Pulley",
+    "description": "Pulley helps startups manage their equity and cap table",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e94020978bb07233af003f7335f4c64a30e4393a.png",
+    "real": true
+  },
+  {
+    "name": "Convex",
+    "description": "Software for the commercial services industry.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7c5d3a6d72aa7ddc98296b94c59a3ba4b3e19f96.png",
+    "real": true
+  },
+  {
+    "name": "Embrace",
+    "description": "Helping businesses achieve their mobile future",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1671ff39ac27942e80000d91d16f869cbf382ca9.png",
+    "real": true
+  },
+  {
+    "name": "Armory",
+    "description": "Continuous Deployment at any scale, for all developers.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a277dff0e01ae8e2d167bb45110ee91451328cae.png",
+    "real": true
+  },
+  {
+    "name": "Nash",
+    "description": "The easiest way for any business to offer delivery",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/85d1c8b167dc541ab5c546bde5eef2173f5264c6.png",
+    "real": true
+  },
+  {
+    "name": "Daily",
+    "description": "The best video experiences run on Daily",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/083decee45eda78a7354a1d02bf58c39968706d4.png",
+    "real": true
+  },
+  {
+    "name": "Attain",
+    "description": "The world's first generative AI-powered CRM for startups",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3b6af801b2de1d19e6494be850a2472c7c603b07.png",
+    "real": true
+  },
+  {
+    "name": "Submittable",
+    "description": "The best way to launch, manage and measure social impact programs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/aab09ec98d8bdad2001ed8e71a0274b75c3da4e4.png",
+    "real": true
+  },
+  {
+    "name": "WorkRamp",
+    "description": "The All-in-One Learning Platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8f03f4eafb54558705a3d931f287372468b614ff.png",
+    "real": true
+  },
+  {
+    "name": "Ambient.ai",
+    "description": "AI company transforming enterprise physical security to prevent…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/624d0ce6f387431048bed692cfded210ffc7d139.png",
+    "real": true
+  },
+  {
+    "name": "Unbabel",
+    "description": "AI-powered Language Operations platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6d36cb19e3763316417518c3b4a2fe8f501c6bbc.png",
+    "real": true
+  },
+  {
+    "name": "Netomi",
+    "description": "Self-Driving Customer Care",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a39a790ec2d3d1805e80c70308782d153f1c2294.png",
+    "real": true
+  },
+  {
+    "name": "Dagger",
+    "description": "Develop your CI/CD pipelines as code and run them anywhere",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a64005bed7a505fdb8ec6767c1f1c599ebf660ca.png",
+    "real": true
+  },
+  {
+    "name": "Gordian Software",
+    "description": "Building software to remove friction in air travel",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c9d7afc54af529857754d964bfc73b84afbdd763.png",
+    "real": true
+  },
+  {
+    "name": "Axoni",
+    "description": "Axoni is building the next generation of capital markets technology",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8c4cc56e4a37201555dc18cf1c50c92082ad616b.png",
+    "real": true
+  },
+  {
+    "name": "Compound",
+    "description": "Compound is a wealth manager for people who work at tech companies.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2f11e5dada8d8ebbf9967a5104a41e9b99bc1fd2.png",
+    "real": true
+  },
+  {
+    "name": "Bitmovin",
+    "description": "Powers OTT online video providers with video developer tools.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d22ccb72e758575588245bb8f517bbe35f7421e7.png",
+    "real": true
+  },
+  {
+    "name": "Long Term Stock Exchange",
+    "description": "LTSE is an ecosystem for visionary business.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c4eb3cefb725e1a8d1e43e578f29268446d786af.png",
+    "real": true
+  },
+  {
+    "name": "AssemblyAI",
+    "description": "APIs for AI models",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/10887edbd9771d54d34bdf7780c6f3cda92e7366.png",
+    "real": true
+  },
+  {
+    "name": "SafetyWing",
+    "description": "Health insurance for remote teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ddb944ea80d22a29ddc64949877063e0dd8d1343.png",
+    "real": true
+  },
+  {
+    "name": "Rutter",
+    "description": "The Universal API for commerce and accounting",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/58546f561c6a3cd285083ee0d5e1c3c9c285fcb2.png",
+    "real": true
+  },
+  {
+    "name": "Slash",
+    "description": "The bank for young solo entrepreneurs.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a16a09957704451334262d0e10e575dc15ff06d1.png",
+    "real": true
+  },
+  {
+    "name": "Culdesac",
+    "description": "We build cities for people, not cars.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/496d0ff1f20ae199837eebe1bfef35fa059329d0.png",
+    "real": true
+  },
+  {
+    "name": "Localyze",
+    "description": "Global mobility platform for companies and employees",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1a073d7b6fb46a3985e339af2a958647f0f4ae4d.png",
+    "real": true
+  },
+  {
+    "name": "MarqVision",
+    "description": "The IP operating system for global brands and content companies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e090676e13257c11dfb75067589489f952bb4bb5.png",
+    "real": true
+  },
+  {
+    "name": "Ashby",
+    "description": "All-in-one recruiting software for high growth companies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/84f5ec42a731e2a4bc57b3b87ef4d96724952ff6.png",
+    "real": true
+  },
+  {
+    "name": "Curri",
+    "description": "Construction & industrial logistics platform.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d0def2ab990562a326f79a5b928123d9101a44ba.png",
+    "real": true
+  },
+  {
+    "name": "Shelf Engine",
+    "description": "Transforms how grocery stores buy highly perishable foods.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/30d8273cf77bf9ee7c72f1c08b3457034ba910b3.png",
+    "real": true
+  },
+  {
+    "name": "Doppler",
+    "description": "The first SecretOps Platform.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3d95925328b3ae3b4a268f9a6c805059711c5235.png",
+    "real": true
+  },
+  {
+    "name": "Wefunder",
+    "description": "We're Robinhood for pre-IPO startups. Everyone can invest $100.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/86fe89dc40132aeb8f280105ad161eb9c7281ebc.png",
+    "real": true
+  },
+  {
+    "name": "ZeroDown",
+    "description": "Find beautiful homes",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/dcf6e1a573bd469deaf497a44224b21356c1f65e.png",
+    "real": true
+  },
+  {
+    "name": "Snappr",
+    "description": "Snappr is the one-stop-shop for visual content creation",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2d4b8eea553ccc3ff1a645fc2affd4f8c5fc3b26.png",
+    "real": true
+  },
+  {
+    "name": "BeGo",
+    "description": "BeGo Connects cargo shippers with truck suppliers in Mexico and US",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/41774322b4a2953269f06a425e25469f1a097d69.png",
+    "real": true
+  },
+  {
+    "name": "Ontop",
+    "description": "A bank for remote workers connected to payroll",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5dbb79988f18a52e0b199ca7f510d224c687729f.png",
+    "real": true
+  },
+  {
+    "name": "Obie",
+    "description": "Insurance and Risk Management for Landlords",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c757df7647cbc57ffb24fcd425ca28f9f9c83f8d.png",
+    "real": true
+  },
+  {
+    "name": "Moonshot Brands",
+    "description": "Buy and grow profitable e-commerce companies selling on Amazon and DTC",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/28e8b66601bd99b04c0ccbfe410627db14923431.png",
+    "real": true
+  },
+  {
+    "name": "Landed",
+    "description": "Tools to build financial security for people with essential jobs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7ab8fa26571630366add5d76d46ba876b673c7b9.png",
+    "real": true
+  },
+  {
+    "name": "Zerocater",
+    "description": "Zerocater is revolutionizing how companies feed their employees",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a645292b4d6ec9338b10e2556390bfcc54ee0b7a.png",
+    "real": true
+  },
+  {
+    "name": "Nabis",
+    "description": "Nabis is the largest licensed cannabis wholesale platform.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6b1f0448fe9e816db7b8e9986418bb4e67d4f019.png",
+    "real": true
+  },
+  {
+    "name": "Roboflow",
+    "description": "🖼️ Give your software the sense of sight.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ba0036069bd338a4c6188cb137722d8f584d0016.png",
+    "real": true
+  },
+  {
+    "name": "treble.ai",
+    "description": "We help companies scale marketing campaigns through WhatsApp",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e327caabc10297ebb160260940994aa368fe6f3d.png",
+    "real": true
+  },
+  {
+    "name": "PostHog",
+    "description": "Open source product operating system",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f0b4836a182b382bf652dda6326d85410d0f78be.png",
+    "real": true
+  },
+  {
+    "name": "Rainbow",
+    "description": "Open-source, design centric software for interacting with blockchains",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/28f27645fc5edf8589ed512ab974bba4e165bad1.png",
+    "real": true
+  },
+  {
+    "name": "Recurrency",
+    "description": "Automated ERP for distributors.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5fe4ce1410d8f06bc2d1f59d61a7c96d9c9fccdd.png",
+    "real": true
+  },
+  {
+    "name": "Focal Systems",
+    "description": "Building the Operating System for B&M Retail using Deep Learning",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e25ba04ae8686807d958c48f1372502741b4b2e3.png",
+    "real": true
+  },
+  {
+    "name": "Mio",
+    "description": "Mio powers seamless communication between workplace chat apps.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d2e2140644182cb7ec4a70381a94543d8c8de82a.png",
+    "real": true
+  },
+  {
+    "name": "Mason",
+    "description": "Mason is the fastest way to take smart devices from idea to end user",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/70881ad94c495ff9a1501555a31b61ee9ba0c769.png",
+    "real": true
+  },
+  {
+    "name": "GetAccept",
+    "description": "Close deals faster. Digitally.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ab0099ae34e6606159dad752edf7880c52ae235b.png",
+    "real": true
+  },
+  {
+    "name": "Chatfuel",
+    "description": "Platform to easily create chatbots to engage with audiences on…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5fd8bcf8d9a9b759b820215a29ca5d614328aac4.png",
+    "real": true
+  },
+  {
+    "name": "Yardbook",
+    "description": "Marketplace & Software Revolutionizing Yard Care",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e0abb3ad3f79aedaf3fc3be14e0dfb8e86dd36cf.png",
+    "real": true
+  },
+  {
+    "name": "Stealth Worker",
+    "description": "Information Security (Cyber Security), Compliance and Privacy (GDPR &…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f3a6dd3a9eb972ed76c351911a07f4bc57b6bba3.png",
+    "real": true
+  },
+  {
+    "name": "Tenant Turner",
+    "description": "We help residential property managers eliminate vacancy.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/85676abad5fd22db0416185c9b0ba9b6864dade8.png",
+    "real": true
+  },
+  {
+    "name": "Font Awesome",
+    "description": "Icons and social logos for your website.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/fa479320e3d153a191f13fca9e3c89b631a02350.png",
+    "real": true
+  },
+  {
+    "name": "Zeplin",
+    "description": "Deliver on the Promise of Design",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3058f679df3968424c2744203d637cac6ef08716.png",
+    "real": true
+  },
+  {
+    "name": "Clerky",
+    "description": "Makes legal paperwork easy for startups and their attorneys.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0413dbdb2293e4b9ea1ccbeb3fd25e23c7e07440.png",
+    "real": true
+  },
+  {
+    "name": "Tesorio",
+    "description": "Tesorio is the cash flow performance platform that helps finance…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ca7ba720859e309c7fb63d87f38791243c9e8a8f.png",
+    "real": true
+  },
+  {
+    "name": "SnapEDA",
+    "description": "SnapEDA is the first & leading search engine for electronics design",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7ea46248995647adc48ea8023a27bea238c72ab8.png",
+    "real": true
+  },
+  {
+    "name": "PartnerStack",
+    "description": "PartnerStack is a full stack solution for partnerships.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f5888e7b2757ea262b5fcb844ad2bd8f89265ad0.png",
+    "real": true
+  },
+  {
+    "name": "Assembly",
+    "description": "We build trust, reduce waste, and reward better labor practices.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6ccab13d3e0d1ffa05b2e8a687246cac34ef55b8.png",
+    "real": true
+  },
+  {
+    "name": "Gemnote",
+    "description": "Gemnote is the easiest way to design, create and send custom products.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/083acf84edb567678955a3853f652e2b1328fea3.png",
+    "real": true
+  },
+  {
+    "name": "New Story",
+    "description": "We pioneer solutions to address global homelessness.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/280805d97b8f928525e064cfec1a11ad08073997.png",
+    "real": true
+  },
+  {
+    "name": "Jopwell",
+    "description": "Career advancement for Black, Latinx & Native American professionals.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3dd0767f5aa369853ca43c4cfdc902eda25965f9.png",
+    "real": true
+  },
+  {
+    "name": "teaBOT",
+    "description": "A robot that makes tea!",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/505488f8533d6ad0f763f2073cd9f12607094ea9.png",
+    "real": true
+  },
+  {
+    "name": "Tara AI",
+    "description": "Manage your team’s product development, from idea to release.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5150a8797d7be6783f61a5e2ea17ea19cd3721a3.png",
+    "real": true
+  },
+  {
+    "name": "Dabble",
+    "description": "A synthetic photo studio for e-commerce",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ded86f0a0f49180c787803bef08563dd167f5851.png",
+    "real": true
+  },
+  {
+    "name": "Meadow",
+    "description": "Point of Sale and Compliance SaaS for Cannabis Dispensaries",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b0fa48b99116985657fd362e4dcb5948c48c050d.png",
+    "real": true
+  },
+  {
+    "name": "Giveffect",
+    "description": "Fundraising, Volunteer and Donor Management SaaS for nonprofits.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d51c4927ae68d337b0287b118c889be90febd4b9.png",
+    "real": true
+  },
+  {
+    "name": "eBrandvalue",
+    "description": "Real-time Nielsen ratings for Brands.Accelerate marketing and product…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b7687a266acc1565f2404a9e6053b41025b988e9.png",
+    "real": true
+  },
+  {
+    "name": "Dealyze",
+    "description": "Dealyze helps national retailers build exceptional customer and…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1374fe13d174c148fb1387b6b1974226f5411900.png",
+    "real": true
+  },
+  {
+    "name": "Resolve",
+    "description": "VR simulations for operations, maintenance and construction teams.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/389299d1c66fa893f4b70f857d4c48593bc491c6.png",
+    "real": true
+  },
+  {
+    "name": "Mobydish",
+    "description": "MobyDish, a tech-enabled service, allowing anyone to place a catering…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a1eda5fbe5161f15b09714a408c3288e4f948adf.png",
+    "real": true
+  },
+  {
+    "name": "Makrwatch",
+    "description": "Scale new user acquisition with YouTube Creators",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2d112d21825239851033ed226096467016755e57.png",
+    "real": true
+  },
+  {
+    "name": "Sails Co.",
+    "description": "Full-service web, mobile, & cloud studio providing professional…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/065c8c25c94a5b7288159539b52e8719bf30381d.png",
+    "real": true
+  },
+  {
+    "name": "ReadMe",
+    "description": "Beautiful, personalized, interactive developer hubs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5a8bd3afbbc73a7d4c44e873cf178a675ddaa19d.png",
+    "real": true
+  },
+  {
+    "name": "BuildScience",
+    "description": "The operating system for commercial buildings.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ea5b7ba5bf28f127304f4edff2198d051dc6e72f.png",
+    "real": true
+  },
+  {
+    "name": "Paperspace",
+    "description": "Paperspace is a cloud platform for building and scaling AI…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/71d8fe724bf62445db1e2f76ff63e411c7f74f2c.png",
+    "real": true
+  },
+  {
+    "name": "Pakible",
+    "description": "We make it insanely easy to design, price, and manufacture custom…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/fcb8f74b73307ed4303eceb91f55cc00e877aa35.png",
+    "real": true
+  },
+  {
+    "name": "Kickpay",
+    "description": "A platform to finance inventory for e-commerce companies.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3cc40f4ad7f1a4c8daf225ecefb4a4b061480c6e.png",
+    "real": true
+  },
+  {
+    "name": "Bankjoy",
+    "description": "An end-to-end digital banking solution for banks and credit unions",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/134b12b221534d10b8b6f4ff8ae5da4a440320ad.png",
+    "real": true
+  },
+  {
+    "name": "Magic",
+    "description": "Turbocharge your business with Magic virtual assistant",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1cb420f5a6ec8a5c8a154e5d0067943d773dfd29.png",
+    "real": true
+  },
+  {
+    "name": "Hive",
+    "description": "Email and SMS marketing platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/badfb865d3956c905328a893ade1fc0f2253e57b.png",
+    "real": true
+  },
+  {
+    "name": "Tenjin",
+    "description": "Mobile marketing analytics and infrastructure",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/463e52171480a4ebcdbd25d4442d7be28671da6a.png",
+    "real": true
+  },
+  {
+    "name": "SFOX",
+    "description": "Crypto-currency trading platform.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a274dfcb73df4022ba335a9f013ebc1f51ffa2d7.png",
+    "real": true
+  },
+  {
+    "name": "Naytev",
+    "description": "Naytev automates paid and organic social media management in one place",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d6e5e55840b4f9b5be34ae97e01990bb48d82df0.png",
+    "real": true
+  },
+  {
+    "name": "Protocol Labs",
+    "description": "Protocol Labs makes internet protocols: IPFS, Filecoin, and more.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/fd54c56e11e7dd30d3e421cedfe5bb4a57c001a3.png",
+    "real": true
+  },
+  {
+    "name": "Bannerman",
+    "description": "Security Guard Company Marketplace",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b608533ba4dfdf9610d953d7d6faf8b3a2d29638.png",
+    "real": true
+  },
+  {
+    "name": "Aptible",
+    "description": "Empowering developers to focus on ideas, not infrastructure",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/17547ff6e0fe5d75c99f92fdc3b9c13fa6712bd5.png",
+    "real": true
+  },
+  {
+    "name": "Y Combinator",
+    "description": "Not your average fixed point combinator.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2db694dd7905db37d037821a2fdaf9fa0708a964.png",
+    "real": true
+  },
+  {
+    "name": "Zinc",
+    "description": "The secret backbone of e-commerce.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a376b8da869a33224239ad6843be2d21abeb19ac.png",
+    "real": true
+  },
+  {
+    "name": "Zidisha",
+    "description": "Direct P2P lending across the international wealth divide.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2235e108f443f2f51f89eaa9dbc94cb68d765e51.png",
+    "real": true
+  },
+  {
+    "name": "TrueVault",
+    "description": "We make Privacy Software for SMBs.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0a2e9357c5acf6536d148bb24e784b364bddb418.png",
+    "real": true
+  },
+  {
+    "name": "Povio",
+    "description": "A design and software development company.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/de7a48c67f5a5d94d1a15e4da48d6f53e9e284d5.png",
+    "real": true
+  },
+  {
+    "name": "PiinPoint",
+    "description": "PiinPoint tells retail businesses where to place their locations to…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ab66514ee2aae2caa138e769ced840f8e4eba100.png",
+    "real": true
+  },
+  {
+    "name": "Theorem LP",
+    "description": "The mission of Theorem is to make credit safe and available. We use…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a07fab3a68d06eb74f5105810d2d86f8ba404c4d.png",
+    "real": true
+  },
+  {
+    "name": "Taplytics",
+    "description": "Optimize any platform and build better products for your customers!",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a3945df5025fa9b139f4970acfcdd1fffdd70a51.png",
+    "real": true
+  },
+  {
+    "name": "Ambition",
+    "description": "Coaching and gamification software for sales teams.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7651fbde07f5ac811e98325179c3cd86d42041fc.png",
+    "real": true
+  },
+  {
+    "name": "42",
+    "description": "Analytics stack for omnichannel retailers and brands",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/15d37a451e4069a0883fa02ca7839c2bdcf32a99.png",
+    "real": true
+  },
+  {
+    "name": "True Link",
+    "description": "Financial Services for Financial Caregivers.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1b794ee20f4526f19cea991d495b3ed835119dbc.png",
+    "real": true
+  },
+  {
+    "name": "Cratejoy",
+    "description": "Cratejoy is the platform for subscriptions",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6bac116b447d560f931d3a25197be9f97f49ee58.png",
+    "real": true
+  },
+  {
+    "name": "Etleap",
+    "description": "Etleap is an ETL solution for creating perfect data pipelines.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/07c9b19241da3d7897596f5f34b6c9baa7c7518e.png",
+    "real": true
+  },
+  {
+    "name": "Cheetah",
+    "description": "Fastest, easiest, and most affordable way for small business owners…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/bce697e8c30a87349848e4fe7b038193a706d63b.png",
+    "real": true
+  },
+  {
+    "name": "Padlet",
+    "description": "Papyrus → Parchment → Paper → Padlet",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/645d902ed813d617206c22ce485d48419ccb91c1.png",
+    "real": true
+  },
+  {
+    "name": "Scuba",
+    "description": "Hadoop for impatient people.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/75095731e25d34e505b54386e1fbac0016ef69ea.png",
+    "real": true
+  },
+  {
+    "name": "CircuitLab",
+    "description": "Online circuit simulator and electronic schematic editor.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c463a769b2f58faee6f5bc842ce70bb66f0acc66.png",
+    "real": true
+  },
+  {
+    "name": "Plivo",
+    "description": "Plivo enables businesses to add SMS, Voice capability into their apps.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5369c189f92d275e96e5521a99dc70b3eb3fff17.png",
+    "real": true
+  },
+  {
+    "name": "Flightfox",
+    "description": "We combine tech with human expertise to help your team travel better.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6506ea4c44efd90c556299c3af4ba55d3fcc0322.png",
+    "real": true
+  },
+  {
+    "name": "BackerKit",
+    "description": "BackerKit is crowdfunding software that helps project creators manage…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/33cb40e549d11d79115d9348d168fc4baf5d5331.png",
+    "real": true
+  },
+  {
+    "name": "OctaveWealth",
+    "description": "The 401(k) that helps you grow",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2abf832821e128ddf8c791dbe39699a70dc1adb4.png",
+    "real": true
+  },
+  {
+    "name": "Upwave",
+    "description": "Marketing analytics for the world's biggest brand marketers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1f54497f04f477d48798e121ae874b32c9bb6f4e.png",
+    "real": true
+  },
+  {
+    "name": "FundersClub",
+    "description": "Online VC",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c061cb24a07575fbc87416275d710b7b6280df2f.png",
+    "real": true
+  },
+  {
+    "name": "Zentail",
+    "description": "We're making ecommerce simple connecting brands with sales channels",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3c3eb0d479545e3450db0e386dc8aa5148e22711.png",
+    "real": true
+  },
+  {
+    "name": "Rainforest",
+    "description": "no-code end-to-end testing that integrates with any CI/CD pipeline",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/49bc9e493d029a722d06cf9c8ebef18ffa6edc92.png",
+    "real": true
+  },
+  {
+    "name": "Screenleap",
+    "description": "One-click screen sharing with installation-free viewing on all devices",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/79779ac47319c6ca49e9f79206097e891803eafa.png",
+    "real": true
+  },
+  {
+    "name": "Buxfer",
+    "description": "Buxfer helps you make better spending decisions by making it easy to…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3cdaac815b43bc63142ff763d4ba39ec6d9553b9.png",
+    "real": true
+  },
+  {
+    "name": "Virtualmin",
+    "description": "",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b1f730a4d38e181f1796f322bba3122ac4dbcab7.png",
+    "real": true
+  },
+  {
+    "name": "Ninite",
+    "description": "Simple third-party app patching and deployment for Windows.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2d5d47c9434a30c40c44a4f5afd8ae9fc1cdd0c6.png",
+    "real": true
+  },
+  {
+    "name": "RescueTime",
+    "description": "Take Back Control of your Time",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/97db687a20a6a52c0ebb297a3f580779b4fb69ce.png",
+    "real": true
+  },
+  {
+    "name": "Santé",
+    "description": "Modern POS for Liquor Stores",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/15a2b4571e1045f35c0ba2461c33ab3553502aba.png",
+    "real": true
+  },
+  {
+    "name": "Sweep",
+    "description": "Github app that generates code on ticket submissions",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/53fdf899fa9ba6572f2921f068458a2d95b46851.png",
+    "real": true
+  },
+  {
+    "name": "Outset",
+    "description": "AI interview tools for market researchers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b9884cde2f06e46373b20cec776477bb5ff0f4c1.png",
+    "real": true
+  },
+  {
+    "name": "Bronco AI",
+    "description": "Palantir for the Little Guy",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/19379c9c0118bc3c547325ee1d68a2a9d392467a.png",
+    "real": true
+  },
+  {
+    "name": "Every, Inc.",
+    "description": "Banking + Payroll + Bookkeeping + Tax in one place",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3015f73175878c54eab97f6a814f0a9d9b0023f8.png",
+    "real": true
+  },
+  {
+    "name": "Pandan",
+    "description": "No code automation",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/41031e36591201230dd71959adfd291eb51bdb67.png",
+    "real": true
+  },
+  {
+    "name": "Artie",
+    "description": "Real-time data replication for databases and data warehouses",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/582c077a00ed962f57931e3efc9a5d27387311c1.png",
+    "real": true
+  },
+  {
+    "name": "HockeyStack",
+    "description": "Unified analytics & attribution for B2B",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/90725285723955c6a718c11c6de42fac109093c5.png",
+    "real": true
+  },
+  {
+    "name": "Vaero",
+    "description": "Fivetran for log data",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e8880a43b4d78bdcd9007972307a7188143b601c.png",
+    "real": true
+  },
+  {
+    "name": "Yuma",
+    "description": "ChatGPT for customer support",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ceaaf3ee1d1c8d7d55aece8929b00691bf066e26.png",
+    "real": true
+  },
+  {
+    "name": "Pierre",
+    "description": "Building a better github",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2f9dd3a5bbb2a2b8bc7fda0243ab22453a6fff15.png",
+    "real": true
+  },
+  {
+    "name": "moonrepo",
+    "description": "Open source build tool for monorepos and large codebases",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3de25b12e8aab670255b22d53c12d30ccd142ae5.png",
+    "real": true
+  },
+  {
+    "name": "Lasso",
+    "description": "robotic process automation for chrome using ChatGPT and computer…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e0b3790438b4c85befc0b6b4c4391c2ba0b12b13.png",
+    "real": true
+  },
+  {
+    "name": "SpecCheck",
+    "description": "Unifying how the optical industry does business.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e0a3c07cf6fd105816972e25920b72ed037437e2.png",
+    "real": true
+  },
+  {
+    "name": "Porter",
+    "description": "Modern accounting software for startups",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7c7eb248f9e6c7fc15d545fe32d2657bb2d2fb35.png",
+    "real": true
+  },
+  {
+    "name": "BerriAI",
+    "description": "API for SaaS businesses to create ChatGPT apps programmatically",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/90fb5f79659d32f2b48bdbb1e9541b4c58361bae.png",
+    "real": true
+  },
+  {
+    "name": "Theya",
+    "description": "The world's simplest Bitcoin self-custody solution",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/57042ecd2926bcb4a43d14403b927a2ae844ffdc.png",
+    "real": true
+  },
+  {
+    "name": "Warp",
+    "description": "Modern Payroll and Compliance for Distributed Startups",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/be7c4d8032d06482f5da78417363955bf91ea915.png",
+    "real": true
+  },
+  {
+    "name": "Atri Labs",
+    "description": "Open-source web framework for Python developers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/413ee0ce7cbb49b50ecad10dcbf461f73e381677.png",
+    "real": true
+  },
+  {
+    "name": "Lightski",
+    "description": "AI-Powered Sales Assistant",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/46c0ccd59cd9c61a81c3d502e48025e0dea1e604.png",
+    "real": true
+  },
+  {
+    "name": "Type",
+    "description": "The AI-first document editor.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/bc11e3b5d5c63e530292978c10dd488c2993855a.png",
+    "real": true
+  },
+  {
+    "name": "Persana AI",
+    "description": "Intelligent sales copilot powered by fine tuned models",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a54e3efb23eef28188f31aa1420682360665bae5.png",
+    "real": true
+  },
+  {
+    "name": "Serial",
+    "description": "Root cause manufacturing issues in seconds",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a8354b5bea40df992c6f00ba3131da07c65e1300.png",
+    "real": true
+  },
+  {
+    "name": "Kyber",
+    "description": "Automating the Insurance Industry with LLMs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3004c4a72b716a80763763b95bf3e212c448756e.png",
+    "real": true
+  },
+  {
+    "name": "Escape - GraphQL Security",
+    "description": "GraphQL API security testing for Developers & Security Teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b4f2dd64a7e6eed13a24457daafdaa5723f661a7.png",
+    "real": true
+  },
+  {
+    "name": "Poll Everywhere",
+    "description": "Interactive meetings and presentations",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ecbec2f3750898b4408fbaa96c7249395a7fc445.png",
+    "real": true
+  },
+  {
+    "name": "Metal",
+    "description": "Machine learning embeddings as a service",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2e5fad3137daf298585abed13d17be64f0e9318b.png",
+    "real": true
+  },
+  {
+    "name": "Texel.ai",
+    "description": "Run AI pipelines 10x faster",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b7fa956db067e60a154f7f7120ecc4d4cdc7062f.png",
+    "real": true
+  },
+  {
+    "name": "Vector",
+    "description": "Reinventing how companies build pipeline",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b70243c70a98bce0a40f7c76f9cf47c45b7ea399.png",
+    "real": true
+  },
+  {
+    "name": "Pier",
+    "description": "Stripe for Credit - End-to-end credit infra via API",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/eb10300785960d3b48dfff648ae5ee0f8ba40cfc.png",
+    "real": true
+  },
+  {
+    "name": "AiFlow",
+    "description": "LLMs automating Market Research in seconds",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f080fe37341cad02ffda9e0865cea281c0783ef5.png",
+    "real": true
+  },
+  {
+    "name": "highlight.io",
+    "description": "The open source, fullstack monitoring platform: stop guessing why…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0d4301601e4f70936655aa2574a0bf0a798fe1bd.png",
+    "real": true
+  },
+  {
+    "name": "Luca",
+    "description": "The Pricing Co-Pilot for Enterprise Retailers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c1a38009f747692e81bd13516e12a87a399aead1.png",
+    "real": true
+  },
+  {
+    "name": "Drift Bio",
+    "description": "The operating system for life sciences data",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b21cb7e03a08a3e1c3660a13918b22962def3d98.png",
+    "real": true
+  },
+  {
+    "name": "BidSight",
+    "description": "Modernizing project management for real estate developers.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0fa3ad36c706b4f37c0153f792b37dce4177ce0f.png",
+    "real": true
+  },
+  {
+    "name": "Fabius",
+    "description": "AI to improve Sales Calls",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3146a62c7afd679b4aadd44a003d88caa00ec656.png",
+    "real": true
+  },
+  {
+    "name": "Vocode",
+    "description": "Open source voice AI on top of LLMs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/aad057fc105425dc8b99aca0064ab8e6964e0c28.png",
+    "real": true
+  },
+  {
+    "name": "Wallbit Pay",
+    "description": "Neobank for global remote workers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2bd230c57e976bda7a089a71ba01e77661e9effd.png",
+    "real": true
+  },
+  {
+    "name": "BabylonAI",
+    "description": "Datadog for machine learning on edge devices",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/57ef98ac3583d491d0bb92c18331206d3a6c8852.png",
+    "real": true
+  },
+  {
+    "name": "Interlock",
+    "description": "Digital-first mortgage servicer",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/44b280429db3b577a7ef33365ca61d1d4b25dfee.png",
+    "real": true
+  },
+  {
+    "name": "Berry",
+    "description": "A Chrome extension that turns any web app multiplayer, like Figma",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/59005c33d3a0d40259f58fdc4a12bc21a5d29d73.png",
+    "real": true
+  },
+  {
+    "name": "Conduit",
+    "description": "Software for warehouses to automate schedules with trucks.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ea7954b24f30e8936a78fc9d1858af118961360f.png",
+    "real": true
+  },
+  {
+    "name": "Codeparrot",
+    "description": "Continuous testing platform for APIs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ac9613c13eeb99583812534b595d2e9fdb2fd12b.png",
+    "real": true
+  },
+  {
+    "name": "Fern",
+    "description": "Generate client SDKs for your API",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/884fb2f50da3c4151657d7b8e82ec485436cc6a6.png",
+    "real": true
+  },
+  {
+    "name": "Unstatiq",
+    "description": "Automatic data validation using AI",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/af3059058003a3ba0dc3c9e9913eec5036b1e46b.png",
+    "real": true
+  },
+  {
+    "name": "Resend",
+    "description": "Email API for developers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/73e2adf3cda0385fe2c9ae7d54bc3742fed58d47.png",
+    "real": true
+  },
+  {
+    "name": "Map3",
+    "description": "Crypto Treasury Ops Automation For Fintechs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5b5448be1d4303d71b60a0e22c1539ee42fb4774.png",
+    "real": true
+  },
+  {
+    "name": "Constant",
+    "description": "Private credit investment platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b0f3c94a7859923f3ba272902a34a8093dda07dd.png",
+    "real": true
+  },
+  {
+    "name": "Common Paper",
+    "description": "The SAFE for commercial contracts",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1a5fd0218aaaf79164dd214261cfc4cec6d668f8.png",
+    "real": true
+  },
+  {
+    "name": "Thread",
+    "description": "Incident Management platform for large enterprises",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/fe1ab28914af8d00a360fa68da95751ee8c4470e.png",
+    "real": true
+  },
+  {
+    "name": "Sorted",
+    "description": "Instant SaaS management",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/12cc8fc655f814db94872047b9f30cc7991aede8.png",
+    "real": true
+  },
+  {
+    "name": "DAGWorks Inc.",
+    "description": "Open Source ML ETL platform for Data Science teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/94a18b5c0cc3a340150d731fa97acee3a6a56ebd.png",
+    "real": true
+  },
+  {
+    "name": "Swishjam",
+    "description": "Open-source page speed tools to help you build incredible experiences",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d607b93f3da26fde36fd956fe7b3fb67f045e121.png",
+    "real": true
+  },
+  {
+    "name": "Invopop",
+    "description": "We help global software companies comply with local tax reporting",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c09f91b840f8f6e3d460a90c1be16b55caaf240a.png",
+    "real": true
+  },
+  {
+    "name": "Turntable",
+    "description": "AI-native operating system for analytics teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2dfe803e31176ba4760f7416a30ab05e1f66d7a4.png",
+    "real": true
+  },
+  {
+    "name": "Keep",
+    "description": "Open-source alert management for software developers.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ca57c15ee63fa6b716d10d0f8f29a5e1732f44e4.png",
+    "real": true
+  },
+  {
+    "name": "Play.ht",
+    "description": "Generate or clone voices and turn any text into human-like speech.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3d4c9619438357f2137d8fd295cf819f695c073d.png",
+    "real": true
+  },
+  {
+    "name": "Planar",
+    "description": "Superhuman for code review",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8c313e432cf422cbdcafd73a0e60c0412817ba9a.png",
+    "real": true
+  },
+  {
+    "name": "Clad",
+    "description": "Software to build the internet faster.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5ab0e3d7b0de12617818a986b541a5e524c146ae.png",
+    "real": true
+  },
+  {
+    "name": "Pylon",
+    "description": "Scale B2B Sales and Support on Slack, Teams, and Discord",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/412a6b3ef532664df77532bc5d7ae3c1233de965.png",
+    "real": true
+  },
+  {
+    "name": "inBuild",
+    "description": "Workflow Automation for Construction Finance",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/565db1f58d2ff6409bb5c8eb3aefcdbc3f515329.png",
+    "real": true
+  },
+  {
+    "name": "Coldreach",
+    "description": "AI-powered sales email personalization - book 10x meetings",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/01cfd7370853173c26a810e2aec87fd55f289393.png",
+    "real": true
+  },
+  {
+    "name": "MagnaPlay",
+    "description": "AI-powered game translation.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8a49da32dac6e6235ca09c99fefeffdc43ec7122.png",
+    "real": true
+  },
+  {
+    "name": "Inri",
+    "description": "Wealthfront for India’s 32M expats living abroad",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2331bf1b0bd23e81a8281b8dfaa777f023b29056.png",
+    "real": true
+  },
+  {
+    "name": "Onu",
+    "description": "Turn scripts into internal tools in minutes without any frontend work",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/de8e371d9ac8defe02fa2e1d3baa8848416b5827.png",
+    "real": true
+  },
+  {
+    "name": "Clueso",
+    "description": "AI-powered customer activation platform for SaaS apps",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a6e6151f374f702aa3e1335ac97d5655ac563804.png",
+    "real": true
+  },
+  {
+    "name": "Fastgen",
+    "description": "Webflow for the Backend",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e3d017d6b2932b5d62965a60b41ea099e46ea0c1.png",
+    "real": true
+  },
+  {
+    "name": "Arroyo",
+    "description": "Snowflake for real-time data",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d1585050d9b71723061d89a0d1b9e2adb92f2810.png",
+    "real": true
+  },
+  {
+    "name": "UpTrain AI",
+    "description": "Open source Datadog for Machine Learning",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/47b693dd4b7ed72d667d94be270df3a21b772b1e.png",
+    "real": true
+  },
+  {
+    "name": "Waveline",
+    "description": "LLMs for workflow automation",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ee313fb396370635773e95acefc320c7a339e560.png",
+    "real": true
+  },
+  {
+    "name": "Noya Software",
+    "description": "Product design tool that lets everyone design like a designer",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c7d3160c0336ac442ed7a4c13a39845f3f042dff.png",
+    "real": true
+  },
+  {
+    "name": "Psychic",
+    "description": "Universal API for unstructured data",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ee06c56b5e8dcd5a0cb5c343d303eba261ec23af.png",
+    "real": true
+  },
+  {
+    "name": "Sherloq",
+    "description": "Github for data teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/416d7b9190a2113a09b5de9e932713dbb12c2145.png",
+    "real": true
+  },
+  {
+    "name": "Fluid Markets",
+    "description": "Exchange to Invest in Company Earnings",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e999ab3e8131e0bfae7ca38f1ff726a1f8a792ec.png",
+    "real": true
+  },
+  {
+    "name": "Hadrius",
+    "description": "The SEC Compliance Autopilot",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
+    "real": true
+  },
+  {
+    "name": "SensorSurf",
+    "description": "Snowflake for sensor data",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/68293f76e231df932485f865dc40d247271f3a24.png",
+    "real": true
+  },
+  {
+    "name": "Semantic Finance",
+    "description": "Realtime AI-powered financial news data",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/440e9c370817208eeba59a299746810f8142a67d.png",
+    "real": true
+  },
+  {
+    "name": "Defog.ai",
+    "description": "ChatGPT for data, embedded in your app",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/cec525dadbe8e5b36cf08f0d30035025bee9f88b.png",
+    "real": true
+  },
+  {
+    "name": "Gloo",
+    "description": "Empower LLMs with domain-specific knowledge",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/105f8073c01ac4ae96da7159b25d47c8c0518adf.png",
+    "real": true
+  },
+  {
+    "name": "Blocktool",
+    "description": "Infrastructure for LLMs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/37e1204679d42e029c28d39a49e705a80bfa889d.png",
+    "real": true
+  },
+  {
+    "name": "Ariglad",
+    "description": "The Jira for internal teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/aa1b49a924ad36495aa9e6b0681204fb501d869d.png",
+    "real": true
+  },
+  {
+    "name": "Berilium",
+    "description": "Wealthfront for Private Equity & Private Credit",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/22d5359d7da9993b23f2395a5cfec5ebcbe81cfb.png",
+    "real": true
+  },
+  {
+    "name": "Homeflow",
+    "description": "Simplifying insurance for large real estate investors",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/cfb9cc8d9dd9147ff98523666ebfa64cc90b36a9.png",
+    "real": true
+  },
+  {
+    "name": "Helicone",
+    "description": "Open-source observability platform for AI companies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b30b5496da5aae5007f1bd81778de35224067c33.png",
+    "real": true
+  },
+  {
+    "name": "Rainmaker",
+    "description": "DeFi for Everyone",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4513fcb84fa72bcdfce26d3a22b34e43edaa1e49.png",
+    "real": true
+  },
+  {
+    "name": "IcePanel",
+    "description": "Explain complex software systems to engineering and product teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7373c1adcb59518de3f0525b2829a0ed7943e0a3.png",
+    "real": true
+  },
+  {
+    "name": "1stCollab",
+    "description": "DoubleClick for Influencer Marketing",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/38bfe8c1abadf254cda7e353f68089f57109eaec.png",
+    "real": true
+  },
+  {
+    "name": "Teclada",
+    "description": "The modern terminal for modern developers.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4701c15bc405d91f89c8c47a8c477c276843a8ab.png",
+    "real": true
+  },
+  {
+    "name": "Inquery",
+    "description": "Superpowers for SQL databases",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8952dd661079d1ee71a6efe11f8455af2229a469.png",
+    "real": true
+  },
+  {
+    "name": "Truewind",
+    "description": "AI-powered Bookkeeping and Finance Software",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4cad69ca6c0d7b0893e00fda5e3fc74251d91fb9.png",
+    "real": true
+  },
+  {
+    "name": "ShortLoop",
+    "description": "Automated API Platform for fast-moving teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/820af679200d42ba6edf958ca36c54bfd8a7734c.png",
+    "real": true
+  },
+  {
+    "name": "Wild Moose",
+    "description": "Helping on-call devs tame production chaos with Generative AI",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/fa6f0365e063d6abf85d22cf51d505e868af977e.png",
+    "real": true
+  },
+  {
+    "name": "EzDubs",
+    "description": "Real-time AI dubbing for content creators",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2a23ca564de06df0b857da5a04633ddcefaf276a.png",
+    "real": true
+  },
+  {
+    "name": "GradientJ",
+    "description": "Platform to build large language model applications",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1a6b0f17aadd2a20eb86b61654dbf7ea57230f64.png",
+    "real": true
+  },
+  {
+    "name": "inkeep",
+    "description": "AI-powered search and chat for developer products",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c54e3dbaa6f36d6112910afbe4fcdd0f0ee2ab56.png",
+    "real": true
+  },
+  {
+    "name": "Plutis",
+    "description": "Plutis is a tool for data scientists to identify and remediate the…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b28da2e800449506094f29bdab13274ec0975348.png",
+    "real": true
+  },
+  {
+    "name": "Tailfin",
+    "description": "Maximize revenue with usage-based pricing.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2eb47acd0ea9e8b21bff8c586f50920600666c23.png",
+    "real": true
+  },
+  {
+    "name": "Propify",
+    "description": "Plaid for Commercial Real Estate",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7822d11e41140d7f6d2558bc38734397f57dde43.png",
+    "real": true
+  },
+  {
+    "name": "Iliad",
+    "description": "Creative tool for generating game assets using AI",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d1623a12073502f5852d0a3bcbddd1dc70576b95.png",
+    "real": true
+  },
+  {
+    "name": "Squack",
+    "description": "Natural language RPA tools for accountants",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/baad3deb83fbac9ce9fb1c22a9e803c96184dedb.png",
+    "real": true
+  },
+  {
+    "name": "Floworks",
+    "description": "Close more deals with CRM on Slack",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e5b9917817cde39883bf28ff0a9ed59fa02a1d66.png",
+    "real": true
+  },
+  {
+    "name": "Extend",
+    "description": "Copilot for internal workflows",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ef77935917c00157dab7d1279fb7d19dc4229898.png",
+    "real": true
+  },
+  {
+    "name": "Finto",
+    "description": "Billing for Entrepreneurs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c0ede90e1d5fcac9f2d6d56a5e21d55e24a883e4.png",
+    "real": true
+  },
+  {
+    "name": "Outerbase",
+    "description": "The interface for your database",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e7ffc83c79c7fc5268f3ebcb40e602151effc32b.png",
+    "real": true
+  },
+  {
+    "name": "Anarchy",
+    "description": "LLM infrastructure for conversational UI",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/50eb68e390b4573ae9dcc3442a80ec6f85db95b1.png",
+    "real": true
+  },
+  {
+    "name": "Bluedot",
+    "description": "Bluedot is a single payment platform for EV drivers and fleets.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d8fd6f1d5fb7457d7a65b3b8719a1b2c7f07928b.png",
+    "real": true
+  },
+  {
+    "name": "Dream3D",
+    "description": "AI-powered 3D Design",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/dc5c128914787f1ad09c34983b9c40c1200da598.png",
+    "real": true
+  },
+  {
+    "name": "coil",
+    "description": "Pay-by-bank for subscriptions",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/cdef9e13a9fa8c01811546fda60badcc3cea8750.png",
+    "real": true
+  },
+  {
+    "name": "Haven",
+    "description": "AI-powered front desk for property managers.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5f51be3e6016c33657688a682b7eb23e8ee1044a.png",
+    "real": true
+  },
+  {
+    "name": "Suger",
+    "description": "Salesforce for Cloud marketplaces on AWS, Azure, GCP",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e70794fc9638509572681489549688199cabc379.png",
+    "real": true
+  },
+  {
+    "name": "Frigade",
+    "description": "Developer tool for growth engineering teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ccd8e1e94fc54f293c3bd81a6c1d8b21ebc157b1.png",
+    "real": true
+  },
+  {
+    "name": "Magik",
+    "description": "Business Bank for Crypto Companies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3702c1c7491bf5770ffc2fb8da71025e43f88296.png",
+    "real": true
+  },
+  {
+    "name": "Chart",
+    "description": "Deploy fast ML infrastructure with one click",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/847c8944a3b1da7a4392ee16c8ea464990cf70cc.png",
+    "real": true
+  },
+  {
+    "name": "Index",
+    "description": "Collaborative planning for high-growth technology companies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/34516a4e4ad746d681d67d218f96e0e54d8a06dc.png",
+    "real": true
+  },
+  {
+    "name": "Buildt",
+    "description": "AI devtool to search and understand large codebases",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/bac72e6784f0430779dc5db04c6c542a679b328e.png",
+    "real": true
+  },
+  {
+    "name": "LinkGrep",
+    "description": "AI browser copilot for teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/36b1df36488e8c11a87320ccb0a8a66e9313c5bd.png",
+    "real": true
+  },
+  {
+    "name": "Bluebirds",
+    "description": "Resell to past customers who switched jobs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/47112b0379733750dc3671dd3bcaf900644b154a.png",
+    "real": true
+  },
+  {
+    "name": "Trigo",
+    "description": "Rent data API for landlords and lenders",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f4995777223c0a6941873d356643ed969835aea5.png",
+    "real": true
+  },
+  {
+    "name": "Neptyne",
+    "description": "The programmable spreadsheet.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4bba48abf01450796ed84c6bb6dcb5adc2044c9a.png",
+    "real": true
+  },
+  {
+    "name": "CreatorML",
+    "description": "ML-Powered Predictive Analytics for YouTube Creators",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/31c0f33b040675d37ad24c454e93d4822ec29d9f.png",
+    "real": true
+  },
+  {
+    "name": "Coperniq",
+    "description": "Workflow software for solar & energy contractors ☀️😎",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7c54e8103600ff9df6830a68d7e05aee833434fe.png",
+    "real": true
+  },
+  {
+    "name": "Zenfetch",
+    "description": "Real time call intelligence for technical sales teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3a156c9a2a4a3877a10d6a4df66e69a3f1a0baf1.png",
+    "real": true
+  },
+  {
+    "name": "PoplarML",
+    "description": "Deploy Machine Learning Models with One Command",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e108e35156cecf90efeb1f504d510fca87ce7b44.png",
+    "real": true
+  },
+  {
+    "name": "FlexWash",
+    "description": "The operating system for the car wash industry.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/91e7c3ac7ae72c11b4d5a3c04877460cac5d2d3d.png",
+    "real": true
+  },
+  {
+    "name": "JustPaid.io",
+    "description": "AI-powered financial controller automating bill pay and invoicing",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8cf83f77b27332293e02eccf097ecbe921ab590d.png",
+    "real": true
+  },
+  {
+    "name": "OpenSight",
+    "description": "AI-powered customer support automation for fast-growing companies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/388789f1c6ffe4850160572101030a86b8e7bc8c.png",
+    "real": true
+  },
+  {
+    "name": "Omnistrate",
+    "description": "Transform any software to multi-cloud SaaS in minutes not years",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/428feb2a5e495458be88abd1793ebca289d4798b.png",
+    "real": true
+  },
+  {
+    "name": "Feather",
+    "description": "The Bloomberg Terminal for retail traders.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e00639c4a34a99e547d8a5fad22777c37c6289f3.png",
+    "real": true
+  },
+  {
+    "name": "Cakework",
+    "description": "API that adds cloud hosting to any developer platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c4dbd8d6bcbc396c907943226c3f01d2cbcd5809.png",
+    "real": true
+  },
+  {
+    "name": "ZeroDev",
+    "description": "Account abstraction wallets as a service",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a30005e91ad35585a4b56bcea0746fd934004f30.png",
+    "real": true
+  },
+  {
+    "name": "Ruby Card",
+    "description": "Neobank for e-commerce businesses",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6cbe3ea3f22fe3582cf726551f2d874c197a6aa0.png",
+    "real": true
+  },
+  {
+    "name": "Mirio",
+    "description": "Webflow for sales",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3f7571de4aabcb1be5c94c52baa0660c71520f19.png",
+    "real": true
+  },
+  {
+    "name": "Double",
+    "description": "The IDE for prompt based no-code automations",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/50e5a1022a2437ff5f516fa3afe9ed74fb7be3f4.png",
+    "real": true
+  },
+  {
+    "name": "Numeral",
+    "description": "Ecommerce sales tax on autopilot.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/609802bd796ff5afaac53afff249cebf9564ba43.png",
+    "real": true
+  },
+  {
+    "name": "Rubber Ducky Labs",
+    "description": "We build devtools for recommender systems at large companies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/80d1f55be06d00fd52db1ea9553e87aa6f8ac9d1.png",
+    "real": true
+  },
+  {
+    "name": "Parabolic",
+    "description": "AI assistant for customer support",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/19e1af8a1c45eebbb38eb6d6fb3a5ea0f0096b9c.png",
+    "real": true
+  },
+  {
+    "name": "Hammr",
+    "description": "Rippling for the Construction Industry",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/38636c8d557c876f06607c37cab2b5419c77fbb5.png",
+    "real": true
+  },
+  {
+    "name": "Fabra",
+    "description": "Import data from your users",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3f1bba47760091a4005597316ede5fe002b8a0a2.png",
+    "real": true
+  },
+  {
+    "name": "Trackstar",
+    "description": "Plaid for supply chain logistics",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/abe1437e8afecc51bbcdce141d3c73065705c143.png",
+    "real": true
+  },
+  {
+    "name": "Nebula",
+    "description": "Code-level observability and debugging for large enterprises",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ffb7d7237c04ef91841ffa6c06007d8d606413a2.png",
+    "real": true
+  },
+  {
+    "name": "FlexDesk",
+    "description": "Helping companies book and manage their spend on coworking space.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7ba7b37dc3c29d740d89959501d5950b59307a9f.png",
+    "real": true
+  },
+  {
+    "name": "pyq",
+    "description": "Easy AI integrations into applications.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/37465f380cf2fb406afb69f0c588b0b2c9b37313.png",
+    "real": true
+  },
+  {
+    "name": "Twig",
+    "description": "Vertical SaaS for the $650B+ Film, TV, and Music Production Industry",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/790a8561399c1a2a072118438efc4842c5e08d77.png",
+    "real": true
+  },
+  {
+    "name": "Concourse",
+    "description": "Treasury management for global companies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/89a98719b39f000949d1e22684220a59ccdaed5b.png",
+    "real": true
+  },
+  {
+    "name": "Viddy",
+    "description": "Software infrastructure for video commerce",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1dfe2f7acf5297dd4c70e312a5b1f29fe5205ad7.png",
+    "real": true
+  },
+  {
+    "name": "Lume",
+    "description": "Automate custom data integrations with AI",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/053379bcb6d2f8ca33ff9eb81f1d899a06a6872a.png",
+    "real": true
+  },
+  {
+    "name": "Workpage",
+    "description": "Pause low-ROI projects and recover engineering headcount",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/57b61695682a4c8225c16076db5f25d8df826a00.png",
+    "real": true
+  },
+  {
+    "name": "Paperplane",
+    "description": "Update Salesforce automatically using NLP",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5a398ec3d3a9f48bf7d358657bd3080ee55bc17f.png",
+    "real": true
+  },
+  {
+    "name": "Rollstack",
+    "description": "Automatically update slide decks from BI tools or data warehouses",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b4f9110f7327a3fc03419f661fef30d16d1d229c.png",
+    "real": true
+  },
+  {
+    "name": "Mirrorful",
+    "description": "The open-source design system framework",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ef04a23f3852ec1f47d21ebc04eaa832f538ce8b.png",
+    "real": true
+  },
+  {
+    "name": "Credal.ai",
+    "description": "The safest way to use AI at the enterprise",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6867dc78b8f25400ec60c51fd2b01c825b194d9c.png",
+    "real": true
+  },
+  {
+    "name": "Layup",
+    "description": "AI that builds workflows across company apps",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c514361b91bc3c5d613a39d48eafd297c0a12050.png",
+    "real": true
+  },
+  {
+    "name": "Doctor Droid",
+    "description": "Your best friend in production.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7b6d81dd6d4c4bdc913b702f0bd007e3c36cfe55.png",
+    "real": true
+  },
+  {
+    "name": "Syncly",
+    "description": "AI to automatically analyze all your customer emails",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/379f7d037509c4a193a794e437d6dfd11781b2d6.png",
+    "real": true
+  },
+  {
+    "name": "rift",
+    "description": "Cold outbound that doesn't land in spam.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/bad003b9e6b5d5aa5f2dbd605812cd3b2604a327.png",
+    "real": true
+  },
+  {
+    "name": "Matano",
+    "description": "Open Source Cloud Native SIEM (alternative to Splunk/Elastic)",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a222c90e6dc5a485e0f58e7075243197316b5126.png",
+    "real": true
+  },
+  {
+    "name": "Cardinal",
+    "description": "Enabling product teams to build measurable features.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b5d014c36052bdd4a69088606fa34d3acd89ab7a.png",
+    "real": true
+  },
+  {
+    "name": "OneText",
+    "description": "Frictionless payments via SMS",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/9918e6f95f34bd512b7ab9b29b23ebfc3b8a58dd.png",
+    "real": true
+  },
+  {
+    "name": "Blyss",
+    "description": "Leakproof data warehouse, built on homomorphic encryption.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a070a3276443496b8e98455f7edba47028991034.png",
+    "real": true
+  },
+  {
+    "name": "Laminate",
+    "description": "",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/911c77a885e4bf373adb4a0cdf19e141adc4231a.png",
+    "real": true
+  },
+  {
+    "name": "Blocksfabrik",
+    "description": "Auto-generate UI components from design guidelines",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ab13f26b83597791ea93dc886b976ccfb905d125.png",
+    "real": true
+  },
+  {
+    "name": "Stack AI",
+    "description": "The platform to build LLM applications (i.e. ChatGPT ) in minutes.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ba025a80024c7619289e745699951c1a65076f54.png",
+    "real": true
+  },
+  {
+    "name": "Infisical",
+    "description": "Open-source, end-to-end encrypted secrets manager for developers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/621cb43ec50d1aae545391abcc114014c84d295f.png",
+    "real": true
+  },
+  {
+    "name": "Rubbrband",
+    "description": "Next-generation vision models",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b18880e05c9eef448b41e2f69a59b103c451224d.png",
+    "real": true
+  },
+  {
+    "name": "Nucleus",
+    "description": "AI-powered business onboarding & identity verification agent",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0bfe1d837eccb11d67a31dd9220c5296d542cb1c.png",
+    "real": true
+  },
+  {
+    "name": "Sameday",
+    "description": "AI sales agents for home service businesses",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/23862516af1ba0bbe26c8d0bea2a9744b359a125.png",
+    "real": true
+  },
+  {
+    "name": "Mogara",
+    "description": "Automatic software R&D capitalization",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c2a699d0e9027eaebb6b3f1b637113ae21d3e655.png",
+    "real": true
+  },
+  {
+    "name": "Terrace",
+    "description": "Institutional-Grade Trading Solutions for DeFi",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7ccd88327d9ef1638ea8990eb9601577985716e3.png",
+    "real": true
+  },
+  {
+    "name": "Ping",
+    "description": "The global neo-bank for contractors and freelancers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e9b87c65de1557a4548c55d16dabf0051c7a1e7d.png",
+    "real": true
+  },
+  {
+    "name": "Dev Tools AI",
+    "description": "AI powered dev tools",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6758dd91546c072531c2cbb36169088f73351a31.png",
+    "real": true
+  },
+  {
+    "name": "Integrated Reasoning",
+    "description": "Fast hardware for optimization problems.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3f5a690824cd4d0b5368fb5c157ee35d6f9d3354.png",
+    "real": true
+  },
+  {
+    "name": "Coverage Cat",
+    "description": "Consumer Optimized Insurance",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/9bd0bbec7d523edd1bef0a7fed1c32a4c5e91d07.png",
+    "real": true
+  },
+  {
+    "name": "AccessOwl",
+    "description": "SaaS account provisioning & permissioning - for any tool",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1f47d40efa2ec60ceb6de3d5dad85ab504f1c80f.png",
+    "real": true
+  },
+  {
+    "name": "Intuned",
+    "description": "Analytics for engineering managers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/12cad0cf2a1fae19cde657528f5b67bb3744af35.png",
+    "real": true
+  },
+  {
+    "name": "Chima",
+    "description": "Building infrastructure tools to help large companies customize their…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a5536faf0c37956706227c0349f57943e972007e.png",
+    "real": true
+  },
+  {
+    "name": "Landeed",
+    "description": "Landeed is India's fastest property title search engine",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6ad200a24281fdd6a8a1c278067a5acc87ff1dab.png",
+    "real": true
+  },
+  {
+    "name": "Lotus",
+    "description": "Open-Core Pricing and Billing Engine",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2939eceea0905b3a2c3c34f9f16476bbc6c94309.png",
+    "real": true
+  },
+  {
+    "name": "Axle",
+    "description": "Plaid for Insurance",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/fc7d56236fe67577e1d51a8f6c48ef7c48d88c9a.png",
+    "real": true
+  },
+  {
+    "name": "Cambio",
+    "description": "Decarbonizing commercial real estate at scale",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5cc8fcc2c764149dce612c787678bf2b0acdcd7c.png",
+    "real": true
+  },
+  {
+    "name": "REVER",
+    "description": "Changing the way people buy by giving superpowers to shoppers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/94c868344c627f6640a8d34b75bca675daa76b26.png",
+    "real": true
+  },
+  {
+    "name": "Abridge",
+    "description": "Flexport for India",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/17a4fc56b9a750bfcbbb0ff3b54d2124eb5d15cd.png",
+    "real": true
+  },
+  {
+    "name": "Pump",
+    "description": "The Fastest Way to Save 60% on AWS 🔥🔥",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/9aa011281df7825af43ef8258e66d04065368153.png",
+    "real": true
+  },
+  {
+    "name": "Monterey AI",
+    "description": "Turn customer voice to product insights",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f48239f9a1517325be5c82710b744c4990ffc846.png",
+    "real": true
+  },
+  {
+    "name": "Lancey",
+    "description": "Interactive demo platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2e0ccdaf4cd2cda74f10e78226d4347b41e39c81.png",
+    "real": true
+  },
+  {
+    "name": "Blockscope",
+    "description": "Web3 Data Platform - fetch & insert on-chain data into your apps",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3b82c758ebac11667f3da0075088a57d8d7852c8.png",
+    "real": true
+  },
+  {
+    "name": "Jasmine Energy",
+    "description": "Jasmine is a decentralized market for climate assets",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/28633b09dd45d993bcae4f85943fc31ca2b0c1f9.png",
+    "real": true
+  },
+  {
+    "name": "Sonnet",
+    "description": "Personalizing outbound sales at scale.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2bda3f28b47d0e7628bc382b56325044bd1aff17.png",
+    "real": true
+  },
+  {
+    "name": "Caddie",
+    "description": "“Contact Sales” Experience for B2B Websites",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/68b9d4cd9c6fc27b64864f75dffd8c30c603207a.png",
+    "real": true
+  },
+  {
+    "name": "UpLink",
+    "description": "Document Collection Software for Accountants, Auditors, and Lawyers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2ea767a408cc57b55584c2042808e466cf2c64d6.png",
+    "real": true
+  },
+  {
+    "name": "SideGuide",
+    "description": "Allowing developers to search and chat with docs and resources.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d4a0c7f19e5eb092850902ec65f1425306facd15.png",
+    "real": true
+  },
+  {
+    "name": "Sunpia",
+    "description": "Deploy serverless without rewriting code",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0a8f293ade5299bdff930dd4920f116a323117fe.png",
+    "real": true
+  },
+  {
+    "name": "Mesh Analytics",
+    "description": "AI-powered revenue analytics & attribution for B2B",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1dce529dc582f1753396c8a22b68334281b2da2d.png",
+    "real": true
+  },
+  {
+    "name": "Excheqr",
+    "description": "All-in-one platform to manage your crypto treasury",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/19549ccf81336266ace3ef741af60a8a595cd664.png",
+    "real": true
+  },
+  {
+    "name": "HOMLI",
+    "description": "Modern real estate brokerage for Europe",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6811479c1b708608fea18dd35850ae5ec8cd5a17.png",
+    "real": true
+  },
+  {
+    "name": "Relate",
+    "description": "Simple sales CRM for startups and SMBs.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f628d1ce517e181a5f9f85891afa3cad5d6a8836.png",
+    "real": true
+  },
+  {
+    "name": "AiPrise",
+    "description": "Global KYC Orchestration Platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2952f364d07ecac65d4746789bcbdd2ceed8b0bf.png",
+    "real": true
+  },
+  {
+    "name": "Ekho Dealer",
+    "description": "Enabling manufacturers to sell vehicles D2C online, like Tesla does",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e6223db3668b524ca060680114d5e8e017bb35e2.png",
+    "real": true
+  },
+  {
+    "name": "Quindar",
+    "description": "Streamline and automate satellite design, test, and operations.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8b1c3c4a91e008bf2dae946586ed7d25fa59ec49.png",
+    "real": true
+  },
+  {
+    "name": "Unthread",
+    "description": "Slack-native customer support platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/dd350677bae9cdd2e979797260a890cbcbceceaa.png",
+    "real": true
+  },
+  {
+    "name": "Payfura",
+    "description": "Global payment gateway to buy/sell crypto",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/63716659153a382d18dd3ed5667bcd754a6aa1c4.png",
+    "real": true
+  },
+  {
+    "name": "Hostfi",
+    "description": "The neobank for short-term rental hosts",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/95200c42eb78619fb53a751c395ab4ec098da649.png",
+    "real": true
+  },
+  {
+    "name": "Ruffo",
+    "description": "Cross-border real estate transactions made easy",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c0cb385606dd9b39050a7f55418a75fef64ad1b2.png",
+    "real": true
+  },
+  {
+    "name": "Artemis Labs",
+    "description": "Create an AI-powered assistant to help users navigate your platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/9db0aac03610898e5860b00d8d63535798ce4eaf.png",
+    "real": true
+  },
+  {
+    "name": "Feather",
+    "description": "Modern 401(k) for startups",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0010bfca58f345f56de9fae7d31661eacaa1d562.png",
+    "real": true
+  },
+  {
+    "name": "Grai",
+    "description": "Open source version control for metadata",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/217dbf57c9649c7822bbee101a62b2d34a750a85.png",
+    "real": true
+  },
+  {
+    "name": "Volantio",
+    "description": "Post-booking revenue and capacity optimization for airlines…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/cf9bb5e6e2675a17e58680fdafb1e6a3bef6c968.png",
+    "real": true
+  },
+  {
+    "name": "Needl",
+    "description": "One app to search them all",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/421304166bc2ad9193bce4d729d24651d19adf3a.png",
+    "real": true
+  },
+  {
+    "name": "FlyCode",
+    "description": "FlyCode streamlines the way you build products",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/bb0c1b8efc5439949b5e2b386dfb2551ce330986.png",
+    "real": true
+  },
+  {
+    "name": "Pluralith",
+    "description": "Automated infrastructure compliance and documentation",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e7957008ca3bafd61f38b146c1fef179229d84a4.png",
+    "real": true
+  },
+  {
+    "name": "Manatee",
+    "description": "DocSend for demos.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0a9a0e0f91f37996c715485c30911b32768c3466.png",
+    "real": true
+  },
+  {
+    "name": "Cambio",
+    "description": "Mobile app helping financially responsible consumers repair bad credit",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c38ebff11f3d48bda3867ad71d68c22de16366b7.png",
+    "real": true
+  },
+  {
+    "name": "Mintplex",
+    "description": "No-code tools to build a business in Web3",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4e7bd1db64e49d8236fb0191449a4eaad28b4a44.png",
+    "real": true
+  },
+  {
+    "name": "AlphaWatch AI",
+    "description": "AI copilot for hedge funds with trusted data",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a4cb8ecbcc76362cae5a0f5edc86c8e5e98a1b70.png",
+    "real": true
+  },
+  {
+    "name": "Coris",
+    "description": "Risk Infra for SaaS companies and Fintechs that Underwrite SMBs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f8d68f694a6b7f9bb0fb7015ac9814c591f45f5d.png",
+    "real": true
+  },
+  {
+    "name": "Peoplebox",
+    "description": "OKR and Strategy Execution Platform for Enterprises",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/728c86ec0ab07ba67073c18874493a43a1bf2313.png",
+    "real": true
+  },
+  {
+    "name": "Zoltar Labs",
+    "description": "Smart contract testing and deployment made faster",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8c6e0f60f05c93e4aa70e811f7fa2df38afbb600.png",
+    "real": true
+  },
+  {
+    "name": "Nucleus",
+    "description": "Nucleus is the Modern Backend Platform for Microservices",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/95c5edfabef2ca28100e0f9579c92592c6a44149.png",
+    "real": true
+  },
+  {
+    "name": "Thera",
+    "description": "Payroll for remote teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/bbbd056caf923a4be1c1e80d1e025c73ef1cbb04.png",
+    "real": true
+  },
+  {
+    "name": "Provision",
+    "description": "Ironclad for construction",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/99fe2687e76957303357ad99f3443fce9af1f552.png",
+    "real": true
+  },
+  {
+    "name": "Tersho",
+    "description": "No-code BI tool that lives in spreadsheets",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1327d9e78dab45d446156f297c8efb307a6460b2.png",
+    "real": true
+  },
+  {
+    "name": "BiggerPicture",
+    "description": "Scheduling automation platform between trucking and warehousing",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/084f70d483c01d58686eb77b4553a1a301027bd5.png",
+    "real": true
+  },
+  {
+    "name": "Flair Labs",
+    "description": "Unlock insights from conversation data with LLMs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/53a60964380779c1b46ef0d91cc03af70b1d6c23.png",
+    "real": true
+  },
+  {
+    "name": "Metafi",
+    "description": "Blockchain infrastructure for Web3 games",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0f09416ad2c5f002a936e7a5c658f21cd5712699.png",
+    "real": true
+  },
+  {
+    "name": "Aragorn AI",
+    "description": "Single software that syncs millions of HR data with SaaS vendors",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/71fdeba4362bbaf84ad5daabdcf353ee6cf87f0e.png",
+    "real": true
+  },
+  {
+    "name": "Payload CMS",
+    "description": "Developer-First Headless CMS and Application Framework",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0f0a550c10525505849576c534b00a71c9d71c7e.png",
+    "real": true
+  },
+  {
+    "name": "Tank Payments",
+    "description": "Tank is the neobank that gets truckers paid faster.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/bee1910a8364dd3abc801594b3d397bad63d0b48.png",
+    "real": true
+  },
+  {
+    "name": "Juicebox",
+    "description": "Hiring on autopilot",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a946760fa8f4d239f00111a1e49d8e5a9368fe09.png",
+    "real": true
+  },
+  {
+    "name": "Wattvision",
+    "description": "Sensors and software for energy tracking. Like 'fitbit' for your…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2a004a5ad1f98a7b8df8b18dc5438fe0e6b22acd.png",
+    "real": true
+  },
+  {
+    "name": "Activepieces",
+    "description": "Open-source no-code business automation tool",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0e3da00ac0f6b66a7e896be53679d01b6fe5fd45.png",
+    "real": true
+  },
+  {
+    "name": "Cashboard",
+    "description": "Cashboard helps finance teams collaborate with internal leaders",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/546da2a54a34cd455b53d2395bcff96834f7fb53.png",
+    "real": true
+  },
+  {
+    "name": "Stellar",
+    "description": "System of record for company-wide goals",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d8637fd38a327a3ebbaa10c637c194c7c1aec16b.png",
+    "real": true
+  },
+  {
+    "name": "Notebook Labs",
+    "description": "Decentralized, anonymous, and accountable identity on Web3.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1e9598aadf454f0b2c80558c3295465a4baabbcc.png",
+    "real": true
+  },
+  {
+    "name": "Blee",
+    "description": "Helping fast-growth companies launch and operate global subsidiaries",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b50abb1455badd5a7f2f1bbd879bfd105b4cf71a.png",
+    "real": true
+  },
+  {
+    "name": "Overwatch",
+    "description": "Enterprise software to detect and analyze business risks",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a5cb678dbc1d06c4a59ba108f5ea081664877ea1.png",
+    "real": true
+  },
+  {
+    "name": "Disclo",
+    "description": "Health disclosure and accommodation management platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e168db75ab4f6e439a5dece49f30bdbbbedfd7f6.png",
+    "real": true
+  },
+  {
+    "name": "Tranch",
+    "description": "Buy Now Pay Later for B2B SaaS and Services",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e186896d8a7ec22f64d967b487766bb96d11614b.png",
+    "real": true
+  },
+  {
+    "name": "Clyent",
+    "description": "A simple small business focused client manager",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a115aa7accb58969c5e401f3bc77d48177dbc352.png",
+    "real": true
+  },
+  {
+    "name": "Sunlight",
+    "description": "The Universal Card-On-File API",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/31758f22583088dc4bc585ae2c372fbd95e94ea0.png",
+    "real": true
+  },
+  {
+    "name": "NuMind",
+    "description": "Create custom NLP models",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a271d83ee825be78f44453963c65aea56395a341.png",
+    "real": true
+  },
+  {
+    "name": "EthosX",
+    "description": "The protocol for derivatives on blockchains",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/996567c41c2cfe38cba0451d132a3ac62a13e9ec.png",
+    "real": true
+  },
+  {
+    "name": "Boostly",
+    "description": "The SMS marketing platform for restaurants",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4aebe36818308f3e5d0fdd93b6022f56d6528fe9.png",
+    "real": true
+  },
+  {
+    "name": "Pilot AI",
+    "description": "Turns your sales calls into CRM data, automatically.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/97a4703dcf8a2915f9284fd4df60402e71a2cf09.png",
+    "real": true
+  },
+  {
+    "name": "BlueHill Payments",
+    "description": "Expanding Payment Flexibility and Lowering Rates for Merchants",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4be69515e6f97571bef8a84f299decf83658d328.png",
+    "real": true
+  },
+  {
+    "name": "Paigo",
+    "description": "Usage-based billing, pricing and business analytics",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e7084f0741b32d1b62000bd5740b7ee6acafe0b0.png",
+    "real": true
+  },
+  {
+    "name": "Sail",
+    "description": "Using generative AI to 10x outbound sales, all on autopilot!",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b7f5e4cfc02d3b668dce84970fe6561041f92564.png",
+    "real": true
+  },
+  {
+    "name": "TrueBiz",
+    "description": "Instant Background Checks for Businesses",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/744ba21703836aacf20f93a8ea2eaf05fdb4ad3f.png",
+    "real": true
+  },
+  {
+    "name": "Lexer",
+    "description": "Benchmark & Optimize ML Models",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1699111ebd47fcbb3263b0d8aa5edaf00685742f.png",
+    "real": true
+  },
+  {
+    "name": "Bunting Labs",
+    "description": "The easiest way to work with geospatial data",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/54ea16bb656251701a24761299c1463cf1564a86.png",
+    "real": true
+  },
+  {
+    "name": "Dittofeed",
+    "description": "Open-source customer engagement",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/66056d90fa8cf0381d7e21e4caf38316db687742.png",
+    "real": true
+  },
+  {
+    "name": "Internet Friends",
+    "description": "Working on: Bagels, a tool to make writing smart contracts 10x faster",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3bd06b57e2ecb57096b844988683326939b044e0.png",
+    "real": true
+  },
+  {
+    "name": "Chariot",
+    "description": "A payment network connecting nonprofits to the $234B in DAFs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4771df6e55c380caeee6d68d04772d5ce6f623eb.png",
+    "real": true
+  },
+  {
+    "name": "Superpowered AI",
+    "description": "Knowledge Base as a Service for LLM Applications",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5a99f13ea3e8f11f56a566c16c863057d1e5557b.png",
+    "real": true
+  },
+  {
+    "name": "Stackup",
+    "description": "Stackup is a platform for building user-friendly blockchain products",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ce59c9e20f820a022bd39a9f105f852934f097bc.png",
+    "real": true
+  },
+  {
+    "name": "Two Dots",
+    "description": "Universal income and employment verification",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/84c2f85377048282f61fc25ff307e64ce0fe4b94.png",
+    "real": true
+  },
+  {
+    "name": "Bend",
+    "description": "The modern corporate card built for climate-friendly business",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3744f755cfa6f110958eacc5496513fa54ccb930.png",
+    "real": true
+  },
+  {
+    "name": "Immuna",
+    "description": "Risk mitigation platform for crypto investors",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3b0e103051829c4c3af6b328805c649d02679f6e.png",
+    "real": true
+  },
+  {
+    "name": "Alma Financial",
+    "description": "A neobank improving financial health through behavioral economics",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f5de9b513c108b091469068f092bd1dfdaa17c27.png",
+    "real": true
+  },
+  {
+    "name": "Penguin AI",
+    "description": "The Creative Assistant for Marketing Teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a179ed55776fa8b30a32019584bd1e644d3018a9.png",
+    "real": true
+  },
+  {
+    "name": "Questa",
+    "description": "Just ask your data warehouse",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/9d840aa9ebda73c4d97d8c5671fa72c815a3ff21.png",
+    "real": true
+  },
+  {
+    "name": "Ciro",
+    "description": "SMB search engine for sales teams 🔍",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8a469b87785fe98487b8f617f2a7645841c5691d.png",
+    "real": true
+  },
+  {
+    "name": "LiveTrucks",
+    "description": "Real-time visibility and alerting for Freight",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b3fbf6068737d4339deab7cac0bf923032ef0399.png",
+    "real": true
+  },
+  {
+    "name": "Mercator",
+    "description": "Geospatial analytics made easy",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/23caaf66a486729b29c6d411b709dcf89cc1a019.png",
+    "real": true
+  },
+  {
+    "name": "Elessar",
+    "description": "AI-powered engineering productivity tools",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d5ec4466bf9627ec4d6984ea49a253e8676bc644.png",
+    "real": true
+  },
+  {
+    "name": "Sematic",
+    "description": "Open-source ML development platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/620ede8c45fe94b1b58f221e98b94d7da292cb5d.png",
+    "real": true
+  },
+  {
+    "name": "Probably Nothing Labs",
+    "description": "Databricks for Web3",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3aec540573f50db1258650415b0a19bf7ccd6d5e.png",
+    "real": true
+  },
+  {
+    "name": "Stream",
+    "description": "Smart automation for insurance claims",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b337731afe95bb6572e9629b309e3807874d04c2.png",
+    "real": true
+  },
+  {
+    "name": "Chordio",
+    "description": "Planning software for remote product development teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b29418be152187b38ccc249652bf446728ba67bc.png",
+    "real": true
+  },
+  {
+    "name": "Magic",
+    "description": "Pay by bank and earn store credit",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3530bf7f597d7736004fabcc25ea04e55961dcd8.png",
+    "real": true
+  },
+  {
+    "name": "DeploySentinel",
+    "description": "Fastest way for devs to fix broken tests",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/33caf20eb0e2e553bf9606cd527a61bf8addea26.png",
+    "real": true
+  },
+  {
+    "name": "Instant",
+    "description": "The Modern Firebase",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d7a13d44426f473f677e86f7879ff1151a867ca3.png",
+    "real": true
+  },
+  {
+    "name": "Wolfia",
+    "description": "Automate your mobile app releases without the hassle",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2c68d719bc51f5ec5187aceb29de7bad207545c0.png",
+    "real": true
+  },
+  {
+    "name": "Banabo",
+    "description": "ML Marketing Infrastructure",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ee52d2153d301e6600298886dbb3fb58bf58c419.png",
+    "real": true
+  },
+  {
+    "name": "Layerup",
+    "description": "AI-powered Medical Billing and Rev cycle automation platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/916b248dc2d072fe43ff755c42bb93e5c67f2d80.png",
+    "real": true
+  },
+  {
+    "name": "Albiware Inc.",
+    "description": "B2B SaaS for insurance damage repair contractors.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/98b59db8e386fdd1ee47fb4a3c5d37055f50994a.png",
+    "real": true
+  },
+  {
+    "name": "Pana",
+    "description": "Cross-border banking for Latinos in USA",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f51d97f938a4d160ed1560789299f2c9823d3ba5.png",
+    "real": true
+  },
+  {
+    "name": "SimpleHash",
+    "description": "Multi-chain NFT API",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2ed9dc06a8e2160ef441a0f912e03226a6ba9def.png",
+    "real": true
+  },
+  {
+    "name": "Massdriver",
+    "description": "Deploy secure, scalable cloud infrastructure in minutes not days",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5883f8852f673efcb705f840a66ea4747e755db5.png",
+    "real": true
+  },
+  {
+    "name": "Reality Defender",
+    "description": "Enterprise Deepfake Detection",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1b55c08c82a608e2af12795ce75514bf3463a800.png",
+    "real": true
+  },
+  {
+    "name": "Remi",
+    "description": "Mobile video shopping experiences for Shopify",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e7beea57963518ed82e3309bc796bda186988255.png",
+    "real": true
+  },
+  {
+    "name": "Onboard.io",
+    "description": "Manage & automate customer onboarding and implementation",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e83f60ab02d8e0f4aca16aeb97ffa47a2a169318.png",
+    "real": true
+  },
+  {
+    "name": "Seis",
+    "description": "Banking 100% in Spanish for the 44 million US Spanish speakers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/dd9b86419e3a78adb95e9c2144f9899fa50c0513.png",
+    "real": true
+  },
+  {
+    "name": "Eventual",
+    "description": "Data Warehouse for Computer Vision",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f429c16ee024d738c1b758e7c2d0ca5d811f204b.png",
+    "real": true
+  },
+  {
+    "name": "Flike",
+    "description": "AI for the modern GTM team",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/288e5e3ef5f57485277256d89272b3469fd0c64a.png",
+    "real": true
+  },
+  {
+    "name": "Karate Labs",
+    "description": "Open-source API & UI test automation",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/eb6e7d4ebf860d2757a5aa406276f93f506a5ee5.png",
+    "real": true
+  },
+  {
+    "name": "Cofactr",
+    "description": "Cloud pre-factory logistics and procurement for electronics",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/39a586314e7bd62c08d22961d04f803a003c805f.png",
+    "real": true
+  },
+  {
+    "name": "EasyCode",
+    "description": "ChatGPT that understands your codebase.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/13900befd20ceccd80b530bd40fdf94bd861483d.png",
+    "real": true
+  },
+  {
+    "name": "KorrAI",
+    "description": "Satellite based subsidence monitoring, powered by AI",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/eb9d2b3aba4530f352bea1055d57d8a8874049ff.png",
+    "real": true
+  },
+  {
+    "name": "Olli.ai",
+    "description": "ChatGPT for data analysis, built for enterprises.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f688e452d61fd30f0d7b1e0300dd7880fafe26d6.png",
+    "real": true
+  },
+  {
+    "name": "Cinapse",
+    "description": "The Operating System of Hollywood",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ddc4d4e8009e0c8d02d4de7f4bdf26587f0a8a7c.png",
+    "real": true
+  },
+  {
+    "name": "CloudEagle.ai",
+    "description": "SaaS Procurement and Optimization Platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6923cdc5341d5fca8bef2410fbbf04a6451777e2.png",
+    "real": true
+  },
+  {
+    "name": "Trusty",
+    "description": "Private MLS for off-market real estate",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a59458e8f506838724f8360325fccbc3925e3cff.png",
+    "real": true
+  },
+  {
+    "name": "Netmaker",
+    "description": "Automated WireGuard networks for distributed systems and Kubernetes",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b3c3a99ff41b4e029c9cc8c8084119c4e97eb919.png",
+    "real": true
+  },
+  {
+    "name": "Cashmere",
+    "description": "Crypto wallet for web3 startups",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4080cdbc25e0833a1c37e7cb78ce01ff0a6683fd.png",
+    "real": true
+  },
+  {
+    "name": "Pigeon",
+    "description": "Simplifying loans with your friends & family.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b139123800489407f058e0b228890ae6c0af4d3a.png",
+    "real": true
+  },
+  {
+    "name": "Plover Parametrics",
+    "description": "Climate change insurance that pays out immediately.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7860780386f1160af8ebf06b9045bc520e218583.png",
+    "real": true
+  },
+  {
+    "name": "Workflow86",
+    "description": "Document, automate and manage your most important business processes",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a371dd37aff33bfd7e6df305c34264657f3daf2a.png",
+    "real": true
+  },
+  {
+    "name": "Humand",
+    "description": "Humand creates digital communities for companies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/68d0d38540610b98e505e1b64f4fa25e85588e80.png",
+    "real": true
+  },
+  {
+    "name": "1Flow",
+    "description": "In-the-moment user feedback for mobile and web apps to unlock growth.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6a37b446a434edc5821e007c6afef8eee91a5a5e.png",
+    "real": true
+  },
+  {
+    "name": "Rally UXR",
+    "description": "User Research CRM",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8d1bec746269f46935a108658fb17cddc54ed760.png",
+    "real": true
+  },
+  {
+    "name": "Arpari",
+    "description": "Treasury management for CRE",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1daae7ef53262d8880fc5c5838278da9bea07522.png",
+    "real": true
+  },
+  {
+    "name": "Fleek",
+    "description": "A B2B marketplace for wholesale second hand fashion",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3e09c5e613b114e5096e4abd0991fce1329dbd63.png",
+    "real": true
+  },
+  {
+    "name": "Ploomber",
+    "description": "Heroku for Data Science.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e73238a0fe4b43d8e43d343e5d3e1059c1d974c2.png",
+    "real": true
+  },
+  {
+    "name": "Winter",
+    "description": "Checkout to sell NFTs via credit card",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4d1547c29b25ebe8f7b19bc9b9a161a84173c370.png",
+    "real": true
+  },
+  {
+    "name": "Shaped",
+    "description": "APIs for ranking",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7cb4aa88f927fe450f8e16f0e67ea6d050ef88ab.png",
+    "real": true
+  },
+  {
+    "name": "ngrow.ai",
+    "description": "Low-code SaaS for marketing in push notifications",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a19487f9d6235e1c02dd412720eb77f6dbaa38bd.png",
+    "real": true
+  },
+  {
+    "name": "Unsaddl",
+    "description": "Education benefits for a modern workforce",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b77103b76f2f5deecfe6a6d496bb7883350ab523.png",
+    "real": true
+  },
+  {
+    "name": "Decent",
+    "description": "Premier multichain infrastructure for NFTs.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1b57b313acace7f917c2c0a720d7c761aaa16dc5.png",
+    "real": true
+  },
+  {
+    "name": "Drifting in Space",
+    "description": "Run compute-intensive apps in a browser",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7b765147726c7884aafa91aa5be13fe81cb7a462.png",
+    "real": true
+  },
+  {
+    "name": "Spade",
+    "description": "Enriched transaction data you can build on",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0c34a890239baf0d72f56f357f5a24dee709b667.png",
+    "real": true
+  },
+  {
+    "name": "Fogbender",
+    "description": "Customer support tool purpose-built for companies that sell APIs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/28494cd390bf89d74761a153c339b4b345f6721b.png",
+    "real": true
+  },
+  {
+    "name": "PropelAuth",
+    "description": "Team-based authentication for B2B SaaS",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/970b6c37812c0813bdd1f859adb13accb17bcdf4.png",
+    "real": true
+  },
+  {
+    "name": "Yatima Inc.",
+    "description": "A verifiable computing platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/28a95c017fc882eb687c0770e3e9bd8702664227.png",
+    "real": true
+  },
+  {
+    "name": "Attain",
+    "description": "One-Stop Shop for Convenience Store Inventory",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/49382467e2a565f576c3b472c767c5c5095a0c0b.png",
+    "real": true
+  },
+  {
+    "name": "Forest",
+    "description": "Digital property manager and neobank for homeowner associations.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e2c33a004eb2094768742199b11ddcc2fcdc1ee1.png",
+    "real": true
+  },
+  {
+    "name": "Nophin",
+    "description": "AI Underwriting Copilot For Commercial Real Estate Investors.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3fa29aba78ffb39b5348d8c126e8f690a064ce36.png",
+    "real": true
+  },
+  {
+    "name": "Venue.live",
+    "description": "Fun and interactive All Hands & AMAs for remote teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ae49d25665523ea6c7061cee5324558c1ffecc6a.png",
+    "real": true
+  },
+  {
+    "name": "IoTFlows Inc",
+    "description": "Cloud Software Making Industrial Machines Smart",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/db834b21af4ce2705ca320994110533bc0a0b2c6.png",
+    "real": true
+  },
+  {
+    "name": "Trueplace",
+    "description": "Super assistant for real estate professionals.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ab4483ff6ac61478d04da2fc70977c84b72f4e98.png",
+    "real": true
+  },
+  {
+    "name": "Vessel",
+    "description": "Developer-first, native integration platform for GTM tools",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c41da58de5c2dc6a94cc622e5a9fd55538d62d3a.png",
+    "real": true
+  },
+  {
+    "name": "Cypher Wallet",
+    "description": "Multi-Chain Crypto Wallet with a Crypto Debit Card",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8c392b870c5d49dee40b459bc44831863846a63f.png",
+    "real": true
+  },
+  {
+    "name": "Bracket",
+    "description": "Two-way syncs between business tools and your database",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/743850446c402a0284c29ccc61272697d62fc139.png",
+    "real": true
+  },
+  {
+    "name": "re-mint",
+    "description": "official secondhand marketplaces for fashion brands",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a1a08cfbdd8a903655744ef8fa679381a416c1c8.png",
+    "real": true
+  },
+  {
+    "name": "Nimbus",
+    "description": "Frictionless and powerful cloud dev environments",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3a7ba904978ff292763739a18150a07859a84b40.png",
+    "real": true
+  },
+  {
+    "name": "Theneo",
+    "description": "Stripe-like API Docs in just a few clicks",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/fcef90810140dfc912fc3555ce4a4d92aabb20ca.png",
+    "real": true
+  },
+  {
+    "name": "mutable.ai",
+    "description": "AI Accelerated Software Development",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5e9d67f4f9b4fe022f90fe7c836e1fa021382d31.png",
+    "real": true
+  },
+  {
+    "name": "Rome",
+    "description": "The marketplace for truckers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b3ce533baa712c5f3600e9396283ebfae0b33da7.png",
+    "real": true
+  },
+  {
+    "name": "Telematica",
+    "description": "Universal API for Distributed Energy Resources (DERs)",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a481543a3e004f34c1986a41d9352073b9b22a58.png",
+    "real": true
+  },
+  {
+    "name": "Vimmerse",
+    "description": "Bring your photos to life in 3D with Vimmerse.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2f3c10d3d6274b4e2f12e6567a8abbb2d77375a7.png",
+    "real": true
+  },
+  {
+    "name": "RentHop",
+    "description": "Apartment rental marketplace",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1d46a914ebd920dcb8bc39852cc8704c1b4ef08f.png",
+    "real": true
+  },
+  {
+    "name": "Courtyard",
+    "description": "Bringing physical collectibles to the blockchain.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3fe5c2be7e2aa0778e285c356dcedd5751eb0f3d.png",
+    "real": true
+  },
+  {
+    "name": "Nullstone",
+    "description": "Opinionated platform to launch/operate apps & workloads on AWS",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1d42112820474d491191b7d3a4c49363cc52ac4c.png",
+    "real": true
+  },
+  {
+    "name": "BotCity",
+    "description": "Open Source Python RPA + orchestration for tech teams.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7c9d51d01f280768899d76eff8f510583a2e1614.png",
+    "real": true
+  },
+  {
+    "name": "Cinder",
+    "description": "Operating system for trust and safety",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/11e79fdb615e4008b53b6d456fb9c93446ae9d40.png",
+    "real": true
+  },
+  {
+    "name": "Cash Flow Portal",
+    "description": "Investment management platform for real estate",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b10b394d0b76a9c9e5b89b8e5357ee40c93c16bb.png",
+    "real": true
+  },
+  {
+    "name": "goodfin",
+    "description": "A private bank for the next generation of wealth",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/15c8edeeb4e91b33ed2fecd4f7d851c6984ea10f.png",
+    "real": true
+  },
+  {
+    "name": "Hydra",
+    "description": "Modern EDW, the everyone data warehouse",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/87c0954c151aa7067e034d8de33b3174d43f5ff0.png",
+    "real": true
+  },
+  {
+    "name": "Campfire",
+    "description": "Actually fun remote team socials",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b5e305b77b1f0e2644dd2b6d6ca10aa418a22361.png",
+    "real": true
+  },
+  {
+    "name": "Demo Gorilla",
+    "description": "Make all your live SaaS demos impactful: close more ARR faster",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2fb90812208727df3e8e0f20948c7862b9feae31.png",
+    "real": true
+  },
+  {
+    "name": "Yunit Inc",
+    "description": "Yunit is the app for investment groups",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/089513413342b283f3e4d1e68a52641244c7b36d.png",
+    "real": true
+  },
+  {
+    "name": "Lovage",
+    "description": "Smart, virtual receptionists for local businesses.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8bc1e9f862fee999c4e72bc8a67f0dedc5205775.png",
+    "real": true
+  },
+  {
+    "name": "Dojah Inc",
+    "description": "Prevent Fraud and Onboard Users Fatster",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/efe7334aa351791d82bb37028b9f9bc229817771.png",
+    "real": true
+  },
+  {
+    "name": "SubscriptionFlow",
+    "description": "AI based Customizable Subscription & Revenue Management Platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6ea5429baf87f6ffc90d9204f3b44880844aead6.png",
+    "real": true
+  },
+  {
+    "name": "Finnt",
+    "description": "The best way to Save and Spend together.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f9b19150d5e54d90279773a7bfd71c3f18b2e273.png",
+    "real": true
+  },
+  {
+    "name": "Agency",
+    "description": "Advanced Personal Cybersecurity for Enterprises",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0b9732a89bf577bd80a0c7d0b377bd35fcce86ce.png",
+    "real": true
+  },
+  {
+    "name": "Tola",
+    "description": "The simple, fast and free tool for businesses to pay and get paid",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/fbc8c1ee7e52671abb62b7c0735dd822b79fde55.png",
+    "real": true
+  },
+  {
+    "name": "Livedocs",
+    "description": "No-code analytics tool for modern teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ce0c55378b1978172dcaae2ec40f66f80a955ff6.png",
+    "real": true
+  },
+  {
+    "name": "Cotera",
+    "description": "Find your best customers.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/68e9104206256340ae04a4b5732c8e4eb8354637.png",
+    "real": true
+  },
+  {
+    "name": "Sero",
+    "description": "Embeddable customer onboarding",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/397f876989dcf422d675bcd202915947068a7da4.png",
+    "real": true
+  },
+  {
+    "name": "Snippyly",
+    "description": "Add multiplayer collaboration to your product.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/60a8b4923dda092f9a2e9f1ffba7f2a5ce36777f.png",
+    "real": true
+  },
+  {
+    "name": "Complete",
+    "description": "The complete way to do compensation",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/40494dfde1f8d15eb0d86813a46d14e6652f1c3a.png",
+    "real": true
+  },
+  {
+    "name": "Stairs Financial",
+    "description": "Find a home you can actually afford",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/947c12dfe7364c0cdc976248bb2744519c5003b7.png",
+    "real": true
+  },
+  {
+    "name": "PermitFlow",
+    "description": "TurboTax for Construction Permitting",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7ded490920c3d66fa08b0a9da3269ee21d78daff.png",
+    "real": true
+  },
+  {
+    "name": "Kable",
+    "description": "Usage-based billing for API companies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3095b0459d18c549430410b2b290965dd29372c0.png",
+    "real": true
+  },
+  {
+    "name": "Mintlify",
+    "description": "Developer-first documentation that converts users",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/9e95c084b565d46c789767d2ecb4d17aca814585.png",
+    "real": true
+  },
+  {
+    "name": "SkyLink",
+    "description": "Travel Management Meets AI",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e8cb2f021ba1541f2a0f502e119d294cbd78b4ba.png",
+    "real": true
+  },
+  {
+    "name": "IOMETE",
+    "description": "The first cloud-prem data lakehouse",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4e52952fdb211b49817df2113a24373bf56b70ef.png",
+    "real": true
+  },
+  {
+    "name": "Magna",
+    "description": "Carta for Web3: token vesting and DeFi investment management.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8d439fe7ad80a3abb806e8faf064081db9c56a21.png",
+    "real": true
+  },
+  {
+    "name": "Sphere",
+    "description": "Secure, structure and monetize your content via LLMs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/dda3dbfa56aa956a43b6324899875dcbfde2d41d.png",
+    "real": true
+  },
+  {
+    "name": "Stackshine",
+    "description": "Automating all IT operations",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2f75e99dea11ca83cb5f3e5de76cf447b57d842e.png",
+    "real": true
+  },
+  {
+    "name": "Gauss",
+    "description": "Lower interest rates on existing credit cards",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/47cb34b7397c027f788b4eed1a3ea9abfcb1c1df.png",
+    "real": true
+  },
+  {
+    "name": "Axis",
+    "description": "Knowledge base for corporate affairs teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f3e7a7c395e202f91209c183250f4e6d0835ea29.png",
+    "real": true
+  },
+  {
+    "name": "HOKALI",
+    "description": "After School & Enrichment Activities Marketplace",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3d5766f94f07a2964ca9e00f65bd78d8b7a53ded.png",
+    "real": true
+  },
+  {
+    "name": "EXO Freight",
+    "description": "Trucking marketplace connecting open deck carriers and shippers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d20e74454b9aef89dd9ffb3d046bfae6b3ce736a.png",
+    "real": true
+  },
+  {
+    "name": "AeonCharge",
+    "description": "One hub to pay for any electric vehicle charger in the US",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/866ae88bd2849b0a875634896e5a54b193fef6a9.png",
+    "real": true
+  },
+  {
+    "name": "Palitronica Inc",
+    "description": "Detect cyber attacks on critical physical infrastructure",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f4754ff74fb207d2ef16e60bc4582800b2583251.png",
+    "real": true
+  },
+  {
+    "name": "Dart",
+    "description": "Project management on autopilot",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2c68a91e16fa382928dbf6244cb81d846ccea2b6.png",
+    "real": true
+  },
+  {
+    "name": "Soon",
+    "description": "Automated sweep account, invest without the stress of speculating",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a99a7aeaa35a5697746a00619ab31de16eaa1ada.png",
+    "real": true
+  },
+  {
+    "name": "Armilla AI",
+    "description": "Quality Assurance platform for Machine Learning Systems.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/cfe3faa8b929c38c7f02f691c16acb608f6fb292.png",
+    "real": true
+  },
+  {
+    "name": "SnapTrade",
+    "description": "Plaid for trading",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/615fa41163010fe2d285bdce38e31588c665de05.png",
+    "real": true
+  },
+  {
+    "name": "Bunkyr",
+    "description": "Zero-Knowledge security without seed phrases or backup codes",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/bab71568a30f64680488b01543947e165355c6d6.png",
+    "real": true
+  },
+  {
+    "name": "Beam",
+    "description": "Rapidly Develop AI Projects",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/cf7324872fe6b37d7579334928f7018d2099483b.png",
+    "real": true
+  },
+  {
+    "name": "Zorba",
+    "description": "SFR sourcing at scale. Powered by AI, managed by experts.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6756e454d5e09277c9ff4e6f0c058072011b4619.png",
+    "real": true
+  },
+  {
+    "name": "Bifrost",
+    "description": "never write frontend code from scratch again ✨",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b47da1b763d2eab543c7295fad8d3fdfe9a6ceeb.png",
+    "real": true
+  },
+  {
+    "name": "LanceDB",
+    "description": "Open-source, serverless vectordb for production-scale generative AI",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d340bdb2c21e440e2e6082c72c3b9f560165f223.png",
+    "real": true
+  },
+  {
+    "name": "Stock Unlock",
+    "description": "Web-app | investment education and analysis tools for retail investors",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f2064f4dcf2a95d814cac2fbfbdedfcd7ef27b92.png",
+    "real": true
+  },
+  {
+    "name": "MosaicVoice",
+    "description": "We make it simple for call centers to automate quality assurance.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/07a04bfee4132b3897d5f49fa3c1e7527834c9d3.png",
+    "real": true
+  },
+  {
+    "name": "Firezone",
+    "description": "Open-source, blazing fast alternative to corporate VPNs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1976fa780017de879088a010363396b1bf88d223.png",
+    "real": true
+  },
+  {
+    "name": "Agentnoon",
+    "description": "Workforce planning for global teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/614919230c549139251a7066248014fc2bb86bb7.png",
+    "real": true
+  },
+  {
+    "name": "Vista",
+    "description": "Enable role-based access across customer groups",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/67098cc273401b2317e2ff6b3fdd8f1f8eb3f5a5.png",
+    "real": true
+  },
+  {
+    "name": "Cerebrium",
+    "description": "AWS Sagemaker Alternative",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/730897d24e909ee905c210f74fec1b439d21c4a7.png",
+    "real": true
+  },
+  {
+    "name": "Criya",
+    "description": "Where top professionals turn their Expertise into their Brand",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/120f183e6a1ed24b5b43c3a486e9f875d8106302.png",
+    "real": true
+  },
+  {
+    "name": "Unlayer",
+    "description": "Unlayer makes embeddable email and web editing software.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3aea0f2a5c81d31fe777bfb89e0a2f8505498583.png",
+    "real": true
+  },
+  {
+    "name": "Emigre",
+    "description": "Banking in India for Indian expats (NRIs)",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1453dc70d000f1e48c26c218054c1803904e2541.png",
+    "real": true
+  },
+  {
+    "name": "ZeusCloud",
+    "description": "Open-source Cloud Security",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/508fd55a7e7462ca538b98de32699ff9c1402a7a.png",
+    "real": true
+  },
+  {
+    "name": "Hyperbeam",
+    "description": "API for shared embeddable web browsers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/052a280e25ca5a3119b5718b3864edc2b1d19adb.png",
+    "real": true
+  },
+  {
+    "name": "Bobidi",
+    "description": "Bug bounty as a Service for AI",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e3c64e345cfdbbe13c9f3c4ba2ccd1d476936fe9.png",
+    "real": true
+  },
+  {
+    "name": "Dioptra.ai",
+    "description": "The feedback loop for machine learning",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8983a589f2875e25661e87e8de4126fdc3b5d46d.png",
+    "real": true
+  },
+  {
+    "name": "Atlas",
+    "description": "All-in-one customer support platform built for product insights",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3526ac2da6b38140d5fb8846d83a6fb59a77b8f5.png",
+    "real": true
+  },
+  {
+    "name": "Orca",
+    "description": "Banking for Gen Z, on steroids.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1c5a065b7a7c24ba9fe5e863ad9867245d795343.png",
+    "real": true
+  },
+  {
+    "name": "HypaHub",
+    "description": "A Cloud-Based Bioinformatics and AI Platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5a364403fcd1dfaabe90af51ec8af68eac5364cf.png",
+    "real": true
+  },
+  {
+    "name": "JumpWire",
+    "description": "Data security for every API and database",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/077148a8281f282d5a5d6825d93aedf0b71c08b4.png",
+    "real": true
+  },
+  {
+    "name": "Rownd",
+    "description": "Killing the login page via instantly authenticated accounts.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e08d1f410784b83a176271e860d8ad4d4c1a12bb.png",
+    "real": true
+  },
+  {
+    "name": "Onyx Private",
+    "description": "A modern and more accessible private bank for the new generation",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2fbe8c7045dae33304d548585ce6f327970f8299.png",
+    "real": true
+  },
+  {
+    "name": "DynamoFL",
+    "description": "Simplified model training across privacy-critical datasets",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/77eb0ba4475a589bd029951b25fff9691ca029ed.png",
+    "real": true
+  },
+  {
+    "name": "HomeRoom",
+    "description": "We Rent Your Property by the Room. You earn 50% more Rent.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/28c5f983626c200b08794eb57093e4b2320036df.png",
+    "real": true
+  },
+  {
+    "name": "TeamOut",
+    "description": "Online marketplace for team retreat venues",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/185c56dbefb7e6cc77211e637e0c8ab47d642d7b.png",
+    "real": true
+  },
+  {
+    "name": "Nyckel",
+    "description": "The machine learning API for non-experts",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a78a32f28568b2ae667193638a969c2248d3f0aa.png",
+    "real": true
+  },
+  {
+    "name": "Spinach.io",
+    "description": "AI Scrum Master for development teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1813c0fbe6185f8b74833d54ff500c665e4e334f.png",
+    "real": true
+  },
+  {
+    "name": "Blaze",
+    "description": "Community CRM and analytics platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/dc25fe4380bf11b306b2a0f91fc2fbedfdf75998.png",
+    "real": true
+  },
+  {
+    "name": "Perl Street",
+    "description": "Financing the next-generation of infrastructure projects",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/fd93730152604090f6350bbed20c2839aa07c76a.png",
+    "real": true
+  },
+  {
+    "name": "Proper",
+    "description": "Reconciliation and financial operations platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f97a835886037adc00a275448d339dc5c2bdc5bd.png",
+    "real": true
+  },
+  {
+    "name": "Loops",
+    "description": "Email sending for startups",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ef8d8c9b30ba22bdd91401d412f32c73551f5439.png",
+    "real": true
+  },
+  {
+    "name": "Toolchest",
+    "description": "Computational biology tools in the cloud with a line of code",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d93b987d40c27696a57c53aa74a2612615ff8799.png",
+    "real": true
+  },
+  {
+    "name": "PromptLoop",
+    "description": "PromptLoop lets you use custom AI models with a simple spreadsheet…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7c8a8c2a5044b70f4b7cfd2ff37e4a2c34a9bdf2.png",
+    "real": true
+  },
+  {
+    "name": "8vdX",
+    "description": "Debt and equity fundraising stack and marketplace for early stage…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f7f422ba268c1c4519593fb5199fb9ef21f3e6ea.png",
+    "real": true
+  },
+  {
+    "name": "Wingback",
+    "description": "Wingback provides tools and APIs for SaaS pricing and packaging.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/de4dd6debd3ed51accf437ceb7b1b316e5fc5f36.png",
+    "real": true
+  },
+  {
+    "name": "Samos Insurance",
+    "description": "Accidental Death Insurance for Surgery",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0b821add4b6477d2d702a875b345acf3070b04b8.png",
+    "real": true
+  },
+  {
+    "name": "WeReno",
+    "description": "Fast and secure renovation payments",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/87cbeb99decd4a8a11deaa7cd1886b3c818d3080.png",
+    "real": true
+  },
+  {
+    "name": "Trellus",
+    "description": "Real-time sales coach for SDRs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6ac35e11423cda97ca4eaf626723895e8148a986.png",
+    "real": true
+  },
+  {
+    "name": "Flightcontrol",
+    "description": "AWS Without Pain — Deploy, Preview, Scale Without Any DevOps",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8e1e3316e18afcdbf50d8d3e7d753bf1c8e50189.png",
+    "real": true
+  },
+  {
+    "name": "PolicyFly",
+    "description": "Modernizing Specialty Insurance",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7570941b976b7bc56ac23e694bcfe99476db2d2d.png",
+    "real": true
+  },
+  {
+    "name": "Sieve",
+    "description": "AI Infrastructure for Video",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b247c36fd7cd016d5bb505d32429cd07b9acfcbb.png",
+    "real": true
+  },
+  {
+    "name": "Railbird",
+    "description": "A futures market for the service sector.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5e6d4ea5d981a729d0ce6ebe8a84504111445b16.png",
+    "real": true
+  },
+  {
+    "name": "OnScale",
+    "description": "OnScale - CRM & collaboration for talent management agencies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/95f246a72452b5a4cec35660d1c859212842045f.png",
+    "real": true
+  },
+  {
+    "name": "Strac",
+    "description": "Detect & Mask Sensitive Personal Data",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5810f2cdca1ab3fedc5a811643be13d5387e300c.png",
+    "real": true
+  },
+  {
+    "name": "Agave",
+    "description": "Plaid for Construction",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e9bc3a224a6ab03aa39009f5213c25815ae6a7d5.png",
+    "real": true
+  },
+  {
+    "name": "Redbird",
+    "description": "Analytics operating system",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/39ebc48cd35c22d4c08ba48f40dd02101c10e35a.png",
+    "real": true
+  },
+  {
+    "name": "SilkChart",
+    "description": "Analytics to help marketers acquire high-value users",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d401abf5313532e28e8c6e9780d794dacb0578b3.png",
+    "real": true
+  },
+  {
+    "name": "GrowthBook",
+    "description": "Open source feature flagging and A/B testing",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4c060531ea33b3550b25532f59de594cc620f374.png",
+    "real": true
+  },
+  {
+    "name": "Arc",
+    "description": "Banking & Funding for Startups",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3e6594af5b3bfb4435bc6c0611eb94d41fb69de9.png",
+    "real": true
+  },
+  {
+    "name": "Uberduck",
+    "description": "Make music with AI vocals.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/64e4a28e72748395edd75e92fdfad99facbecb60.png",
+    "real": true
+  },
+  {
+    "name": "Attack Capital",
+    "description": "The public ticker for private companies.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/39cef64cd9dd2991a48444e07ce7af73ffae2335.png",
+    "real": true
+  },
+  {
+    "name": "Odiggo",
+    "description": "Co-Pilot for doctors",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/bd71806df011340df53463370352444dd427feb8.png",
+    "real": true
+  },
+  {
+    "name": "Olark",
+    "description": "The best live chat software on the planet. We help you build…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7ff33564bb52577d5950335e7ae4c2e1fab8f9fa.png",
+    "real": true
+  },
+  {
+    "name": "Safer Management",
+    "description": "Student Attendance tracking for Public Schools",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/30ad58fe2e47b7bd28702a2603013a87e5e354bc.png",
+    "real": true
+  },
+  {
+    "name": "Satsuma",
+    "description": "Reliable blockchain indexing & querying for web3 engineering teams.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/534b4a727c846e2797022922053e8d79d2f196d2.png",
+    "real": true
+  },
+  {
+    "name": "Synder",
+    "description": "Easy accounting for e-commerce",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/cbfbdd6f698428d00defbe49ae298e9ee23d8d76.png",
+    "real": true
+  },
+  {
+    "name": "Café",
+    "description": "Social Hub for Hybrid Teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6c368c9d008e5d4db6caf0bc8d14f12ff9d81d65.png",
+    "real": true
+  },
+  {
+    "name": "FirstIgnite",
+    "description": "Connecting Industry and Academia",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6093f8dee5d8e445d2bff9f30caeb8397b0ec2eb.png",
+    "real": true
+  },
+  {
+    "name": "Aviator",
+    "description": "Google-level engineering productivity suite",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/678a075ba845be1f92622449400b609811c48c31.png",
+    "real": true
+  },
+  {
+    "name": "Talentdrop",
+    "description": "Your personal hiring page.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/75a4c7f1f648095f18ddfb21ebe07a52720214e8.png",
+    "real": true
+  },
+  {
+    "name": "Sitenna",
+    "description": "B2B SaaS for modern infrastructure to deploy and manage sites",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ab5988a019783acdb1a9c47fc936a37d129bc614.png",
+    "real": true
+  },
+  {
+    "name": "Evidence",
+    "description": "Business intelligence as code",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/941e41b881691b6e659c3afb78736188171b3135.png",
+    "real": true
+  },
+  {
+    "name": "Pactima",
+    "description": "Live video signing for real-time agreements",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/cd5b61907c3569a6b9a7653c553f169ebd5b23c1.png",
+    "real": true
+  },
+  {
+    "name": "Tantl",
+    "description": "Helping companies leverage AI to make their data warehouse actionable…",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/94267355821006175d022baade22bab81958fa34.png",
+    "real": true
+  },
+  {
+    "name": "StandardCode",
+    "description": "LinkedIn automation and activity tracking for sales teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8b7aeca9360f09fcee827440a6d928e7a249233f.png",
+    "real": true
+  },
+  {
+    "name": "CODEOWNERS (fka Codex)",
+    "description": "Code ownership, automated and driven by data.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/be6d8ca365ec67dab2a4c54fde4b60a26e1e4743.png",
+    "real": true
+  },
+  {
+    "name": "Mindmesh",
+    "description": "Mindmesh is the virtual desk that puts you in control.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/b9754cb23724b1a2dcadee8505ce1ea31d172db5.png",
+    "real": true
+  },
+  {
+    "name": "Therify",
+    "description": "Inclusive mental healthcare for companies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a068a30090c309e12a8261617a23a328e7bb134b.png",
+    "real": true
+  },
+  {
+    "name": "Plai",
+    "description": "Launch targeted ads from your phone in seconds",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/9e5edb26e5bdc44b210c50ed3cc68204303afbc9.png",
+    "real": true
+  },
+  {
+    "name": "ContraForce",
+    "description": "The Cybersecurity Management Platform for Startups & SMB",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5f62fbd0784e6b06ebda82ebc864cbb79338d6a4.png",
+    "real": true
+  },
+  {
+    "name": "Storylane",
+    "description": "Build Interactive Product Demo in 10 mins for SaaS companies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2ea7660c6ef79a3f3c31b84b9791afa7da450839.png",
+    "real": true
+  },
+  {
+    "name": "StrideQ (formerly SliceQ)",
+    "description": "Automated phone ordering system for restaurants",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7557982e49d88a53b674fb89f1101a2f39d475ca.png",
+    "real": true
+  },
+  {
+    "name": "Coinfeeds",
+    "description": "Bloomberg for cryptocurrencies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/90b3d4e6c71071a3dc2109fa9f49781b5788c357.png",
+    "real": true
+  },
+  {
+    "name": "idemeum",
+    "description": "Passwordless application management platform.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6aa1938c4fe3ea2490e7d81c9ed3b94322cd8b97.png",
+    "real": true
+  },
+  {
+    "name": "Telivy",
+    "description": "Comprehensive cyber security assessments and insurance",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/9c2b737c315b075b967ccb0e8aa0683e1b37cef2.png",
+    "real": true
+  },
+  {
+    "name": "Zuma",
+    "description": "We help businesses convert leads into sales in minutes using text",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/84726eaf029b9ba89c36aa373753fe1b0650f8be.png",
+    "real": true
+  },
+  {
+    "name": "Waterplan",
+    "description": "Water risk mitigation for industrial sites",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/56794ad6ea12a6e16aa87fe26ec5e7109ba0e46d.png",
+    "real": true
+  },
+  {
+    "name": "Argus",
+    "description": "The next generation of employee compliance",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e2cb473ed161535672dc3db487d2e70dec2a74ec.png",
+    "real": true
+  },
+  {
+    "name": "Bedrock AI",
+    "description": "Find what matters - investment research at scale",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/51b3ed7630e5c65a5f81680ff716f815f17e4b4b.png",
+    "real": true
+  },
+  {
+    "name": "Greenwork",
+    "description": "Helping Climate Companies Build their Construction Projects",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/462e51009af44a8ff68a1491629e7f76e1b39282.png",
+    "real": true
+  },
+  {
+    "name": "Genuity",
+    "description": "SaaS Platform to manage IT and buy business software",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2af07bc05265ab98710e52ec7c714c24063df621.png",
+    "real": true
+  },
+  {
+    "name": "Telmai",
+    "description": "Data quality profiling and monitoring",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/263d4d84c92376ed8c755e0f7348f5c855dc3ec8.png",
+    "real": true
+  },
+  {
+    "name": "Dots 💸",
+    "description": "Developer friendly drop in payouts infrastructure",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ef214a749c163e81772f2ba192fdf4eeec23bbb3.png",
+    "real": true
+  },
+  {
+    "name": "Mach9",
+    "description": "The Fastest Tool for Automating Geospatial Production",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/232339d6edde0605ea880f4aaef47c45acf14848.png",
+    "real": true
+  },
+  {
+    "name": "CostCertified",
+    "description": "Amazon for Construction",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6a1536afae97ecff14caf9887444b5563ca30f77.png",
+    "real": true
+  },
+  {
+    "name": "Coast",
+    "description": "Sales Demos for API-First Companies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/65cb3b99fd44f8b43727970a9cb034fbeee5d0df.png",
+    "real": true
+  },
+  {
+    "name": "Float",
+    "description": "Supply chain finance for consumer brands",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3571cbf557f95515de9e1348c90d09a8554f9180.png",
+    "real": true
+  },
+  {
+    "name": "Writesonic",
+    "description": "AI-powered content creation - #1 AI tool for Writing Blogs in seconds",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5c3627a012cbd2927f9d0157663c3668b458fe3e.png",
+    "real": true
+  },
+  {
+    "name": "outloud.ai",
+    "description": "Building Gong.io for offline retail.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a26f5f21689070c1c612757e20582c586c7d843e.png",
+    "real": true
+  },
+  {
+    "name": "Warrant",
+    "description": "Authorization and access control as a service.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0463ea40224ab10e82c931c492806150172da7a0.png",
+    "real": true
+  },
+  {
+    "name": "Marble",
+    "description": "A Virtual Property Manager for Long-Term Rentals",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/227d69a153377b058c2bc410633304be55ebcdd1.png",
+    "real": true
+  },
+  {
+    "name": "Evidently AI",
+    "description": "Open-source monitoring for machine learning models",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ff0b16931b863f29fd0bd341fe033523a5e16dd6.png",
+    "real": true
+  },
+  {
+    "name": "Zensors",
+    "description": "Google Analytics for the physical world",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/01f2ed9f6b2573e18e28f42a8c260ee15a0a777a.png",
+    "real": true
+  },
+  {
+    "name": "Aleph",
+    "description": "One source of truth for financial data.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6a98a9ce4a798ccf7b09142ac820b92e9c1d5fee.png",
+    "real": true
+  },
+  {
+    "name": "Clarity",
+    "description": "Simple docs & tasks for decentralized teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d25b7b52ff86b766d9d3c7f1850889bb5297c53e.png",
+    "real": true
+  },
+  {
+    "name": "Dots",
+    "description": "Scale customer communities to drive revenue and retention",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5993103804de37887c89b09ec711bbe92d5bfe30.png",
+    "real": true
+  },
+  {
+    "name": "OneSchema",
+    "description": "The embeddable CSV importer for SaaS",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0da6fd5bf7648bc26ba469b7a2a03b08186196dd.png",
+    "real": true
+  },
+  {
+    "name": "Multibase",
+    "description": "Web3 User Analytics",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6233918c8368fc4cfcfc78eee29663deabced94e.png",
+    "real": true
+  },
+  {
+    "name": "Whalesync",
+    "description": "The simplest no-code data pipeline",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5b41e1d6f488e4bc79eaf0dddb0a7f7b316e142e.png",
+    "real": true
+  },
+  {
+    "name": "Sequin",
+    "description": "Sequin is banking designed to empower women financially.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/47b6f40ba43cf8bcab62d5da9b5de194eaf83e88.png",
+    "real": true
+  },
+  {
+    "name": "Mergent",
+    "description": "Cron scheduling on steroids",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/87e0116079f984e89d1f50a502cb2e629038b55b.png",
+    "real": true
+  },
+  {
+    "name": "Scispot",
+    "description": "Life science operating platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/996a065b9b830e170e3a68e207d6245f28dc54b8.png",
+    "real": true
+  },
+  {
+    "name": "Hypercontext",
+    "description": "Meeting agendas, notes, & goals that tie back to your OKRs",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e341d51ab4846625abc0f683c15083bfa5785f1a.png",
+    "real": true
+  },
+  {
+    "name": "Cloudthread",
+    "description": "Eliminate Cloud Waste. Attribute and Track Savings. Engage Engineers.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/901ce3d4d85e5af8508dc541cdc117afcf14c583.png",
+    "real": true
+  },
+  {
+    "name": "Truss",
+    "description": "Banking for construction",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d3f982deac62cf40f505362f3a6405c4b5190460.png",
+    "real": true
+  },
+  {
+    "name": "Monto",
+    "description": "Shopify App Store for Webflow Ecommerce",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2f1c93443b5ec4ae12971d2d7488cac5eba8cd4b.png",
+    "real": true
+  },
+  {
+    "name": "Argonaut",
+    "description": "Automated app and infra deployments across envs on your AWS or GCP",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3c0b094c8ec4ac1617884ef5f346822fd446fbb9.png",
+    "real": true
+  },
+  {
+    "name": "Apollo",
+    "description": "The card that rewards you with stock",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e07c36d3a9cd114a6e105e8b128004ab25b67d2f.png",
+    "real": true
+  },
+  {
+    "name": "Ruta Health",
+    "description": "Async personalized and actionable health education by real doctors",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/9b723a38aaac3c710ea89080d5f1dfb58cad131d.png",
+    "real": true
+  },
+  {
+    "name": "Matidor.com",
+    "description": "Project management on a live map",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/021ce949e37c4b16d1b09188fc8214d07f3f8eeb.png",
+    "real": true
+  },
+  {
+    "name": "inai",
+    "description": "Segment for global payments",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/da59c4349b82e705e29606d58cbb24dfe644ab79.png",
+    "real": true
+  },
+  {
+    "name": "Journalize",
+    "description": "Turbocharge your monthly close",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/221931f4ca165f95114652710c6c25d2cd5da537.png",
+    "real": true
+  },
+  {
+    "name": "DigiBuild",
+    "description": "We use AI to revolutionize Construction supply chains.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/7973089e0985816cdee8963d754618a1620e706f.png",
+    "real": true
+  },
+  {
+    "name": "Cloudanix",
+    "description": "Cloud and Container Security Platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1209d6739765a764083573c7a354abcbce2fe009.png",
+    "real": true
+  },
+  {
+    "name": "testRigor",
+    "description": "Executable specifications in English for test automation",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/320246972eefed6a269a40ed9fa38e5de40b066e.png",
+    "real": true
+  },
+  {
+    "name": "Ivella",
+    "description": "Banking and savings products designed for couples",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/900b1772e9f94bc70841de05a846c5f6285066e1.png",
+    "real": true
+  },
+  {
+    "name": "Covie",
+    "description": "Programmatic building blocks for transacting with insurance",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/cab875f3e2be4c71042986d743255262bdafeda3.png",
+    "real": true
+  },
+  {
+    "name": "Breadcrumbs.io",
+    "description": "No-code scoring engine identifying your most engaged upsell opps",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e428b571dcd57f52e3df670e2dc5bdc62d03aaa2.png",
+    "real": true
+  },
+  {
+    "name": "Repool",
+    "description": "Making hedge funds easy to create and operate.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0618fec03dde578a0b8fe023171828a11dd7a3e1.png",
+    "real": true
+  },
+  {
+    "name": "Laudable",
+    "description": "Platform to find and leverage happy customers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/eb7d6cfef41904da6758d65129b0adeffca2b2e1.png",
+    "real": true
+  },
+  {
+    "name": "Onebrief",
+    "description": "Onebrief makes military headquarters run seamlessly",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/a9dd01a9d8456816adc08efdeb71d76abc637e45.png",
+    "real": true
+  },
+  {
+    "name": "Keyri",
+    "description": "Secure fraud prevention and authentication platform for developers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/9d204b37489e1bf0407fdab24bd4c6ec609fffd5.png",
+    "real": true
+  },
+  {
+    "name": "Metlo",
+    "description": "Open-source API security platform.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4f8c6e1ae8ff09e83bc02ec02d823eadebd7c73e.png",
+    "real": true
+  },
+  {
+    "name": "Playhouse",
+    "description": "TikTok for real estate",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1f9c83954436d1db766053d2999256e2565e9fc8.png",
+    "real": true
+  },
+  {
+    "name": "Tarsal",
+    "description": "Fivetran for security data",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/75747b61e59eadbd8831c406fbe1beed2fd4957b.png",
+    "real": true
+  },
+  {
+    "name": "Aqua",
+    "description": "The Modern Way for Financial Advisors to Put Their Clients into Alts",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e0238fbfedcf80336a77344bfd8964d1ce527eef.png",
+    "real": true
+  },
+  {
+    "name": "Secoda",
+    "description": "The second brain for your data team",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4b049a52be34bb701fef7828f1cea14c3624e5f6.png",
+    "real": true
+  },
+  {
+    "name": "Kodex",
+    "description": "Easiest way for companies to process data requests from governments",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3663c3ac728bfa42632af932ea3bfd56b28a9239.png",
+    "real": true
+  },
+  {
+    "name": "HyperTrader",
+    "description": "The Trading Terminal For Crypto Traders",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/fed32ab70a12bd36d21cdf1279b175682454ee3c.png",
+    "real": true
+  },
+  {
+    "name": "Maroo",
+    "description": "Financial OS for wedding and events industry",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d44ff4ab7d5acc88cb14c3dc0337558d639d34ba.png",
+    "real": true
+  },
+  {
+    "name": "Awesomic",
+    "description": "Get design tasks done",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6e5bcb332a2c42ce172cb5c3b0a9454e2df1d1d2.png",
+    "real": true
+  },
+  {
+    "name": "Kindamagical",
+    "description": "Create + share amazing product GIFs in minutes ⚡️",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3a9c79dac3c9f7267080966bb57a5b86525bfe43.png",
+    "real": true
+  },
+  {
+    "name": "Brite",
+    "description": "Software that helps employees pick their employee benefits.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/396df8b615efb145166e71f986645ec788d1d655.png",
+    "real": true
+  },
+  {
+    "name": "Tavus",
+    "description": "AI Generated Personalized Videos",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8e67cf96446cc05ab25099e8ab94b8256f0f724e.png",
+    "real": true
+  },
+  {
+    "name": "Patterns",
+    "description": "The fastest way to scale next-gen cloud apps",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/89372b00fc0e01e79ded674b4b4373e0929ae65b.png",
+    "real": true
+  },
+  {
+    "name": "Forage",
+    "description": "Payments infrastructure for government benefits",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8462f0b0ddc7574ba11ce7625c3690a61c4b683e.png",
+    "real": true
+  },
+  {
+    "name": "Nexus",
+    "description": "Nexus offers a unified checking and investment account.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e76d271d52208f7b3976f708e61bc7a0fee49d49.png",
+    "real": true
+  },
+  {
+    "name": "Lariat Data",
+    "description": "Observability for Data Engineering Teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/48e2e81fa04d812d60bdd7e093944b8090c8742d.png",
+    "real": true
+  },
+  {
+    "name": "DailyBot",
+    "description": "AI Assistant and Chat Add-ons for Work",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/8a4562eea5bec9eaf52ff9e3598861ff6e24fdf0.png",
+    "real": true
+  },
+  {
+    "name": "Abbot",
+    "description": "Your Customer Success Co-Pilot",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/f3f99c8925fd18b1c6eef6d076545c620370ce6b.png",
+    "real": true
+  },
+  {
+    "name": "InstaKin",
+    "description": "Financial Platform for Migrant Families in America",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/adf4f090a820906f30e301a39fb86de71cc10ead.png",
+    "real": true
+  },
+  {
+    "name": "Anakin",
+    "description": "We automate pricing for companies like Walmart and Britannia",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/91a2527875c81ede160e36ea318e02945c2b588d.png",
+    "real": true
+  },
+  {
+    "name": "Bite Ninja",
+    "description": "Cloud labor for restaurants",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/659f1a3a0883d433bcf27880b43e945ecb4b431a.png",
+    "real": true
+  },
+  {
+    "name": "Watu",
+    "description": "Shopify stores inside of Gmail",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4b893bfee13bdfcc0a2a1b1bfc49d29c819dff05.png",
+    "real": true
+  },
+  {
+    "name": "Sleek",
+    "description": "1-click checkout from every store on the internet + cash back rewards.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d66df5c1e4eac0579c54f345375ef14714c7b02b.png",
+    "real": true
+  },
+  {
+    "name": "Keeper",
+    "description": "We make software for bookkeepers.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e62eb8fc8bb104db629027f029c23e342c23d7f2.png",
+    "real": true
+  },
+  {
+    "name": "PlusIdentity",
+    "description": "Password manager + Okta for growing teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/498a0f3d680ea246be91c9cd647d1aa4ae2fa53b.png",
+    "real": true
+  },
+  {
+    "name": "Cabal",
+    "description": "Private workspace for founders, investors, and advisors to collaborate",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/271d4b2b5622ecdaedd4cf4aa18ca34fa172e509.png",
+    "real": true
+  },
+  {
+    "name": "Advantage Club",
+    "description": "Global platform for employee engagement with rewards&flexible benefits",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/91384c8f455c6860b2a73e8558d2b314761ecf47.png",
+    "real": true
+  },
+  {
+    "name": "Confido",
+    "description": "Financial automation and intelligence for CPG Brands",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/d62e1877d59aa64094afda70098fd7584eb4499f.png",
+    "real": true
+  },
+  {
+    "name": "Deed",
+    "description": "Making it easy for employees to donate and volunteer with good causes.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1b80a4df0b9154b81c10f1f6293cdab63dc635a1.png",
+    "real": true
+  },
+  {
+    "name": "Levro",
+    "description": "Multicurrency bank account for businesses",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3c701b2b04808644316217d356d3d16dfbf3e281.png",
+    "real": true
+  },
+  {
+    "name": "Flowbo",
+    "description": "Pipe for online businesses",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/50a9b08351b63992055d656f9f008b5e7ec36f91.png",
+    "real": true
+  },
+  {
+    "name": "Goodkind",
+    "description": "Video-first student recruitment",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/19b2d3b1ab50845c2cb174d05f4201d30e698595.png",
+    "real": true
+  },
+  {
+    "name": "Replo",
+    "description": "UI marketplace for the web",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6d35b8ea019eb95e63016971bc2bcc28e3bffcaa.png",
+    "real": true
+  },
+  {
+    "name": "Rootly",
+    "description": "Manage incidents like outages directly in Slack",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/383c72955878b09af877eb182c076febb7ce76e8.png",
+    "real": true
+  },
+  {
+    "name": "Potion",
+    "description": "AI for product formulation",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5c8fe0551445344a1b241bf75c5eb750abe6f03d.png",
+    "real": true
+  },
+  {
+    "name": "Jestor",
+    "description": "All-in-One Workflow Automation. No Code.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/ed71eb78590220cc6aa2f5441853b5ee33591ba5.png",
+    "real": true
+  },
+  {
+    "name": "Flow Club",
+    "description": "Virtual Co-working Community",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/5620a9215a3f271c3cb3cf151167f8624588baf4.png",
+    "real": true
+  },
+  {
+    "name": "Concord Materials",
+    "description": "Automating procurement and finance for construction companies",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3184c6727a76207d43485049fdf4e2604c6b26d7.png",
+    "real": true
+  },
+  {
+    "name": "Jupe",
+    "description": "Housing for 1.5B humans.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/32999b03bfa83f47b9348a7e827836b3d847b026.png",
+    "real": true
+  },
+  {
+    "name": "Varos",
+    "description": "Data sharing platform to compare business KPIs to your peers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1d8d1d12eabe00614dddbb8b85a798561bc42d4d.png",
+    "real": true
+  },
+  {
+    "name": "Stipop",
+    "description": "Empowering consumer apps to support stickers in their chat.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/fcef47afca27cadb2570f213a9506188fa120429.png",
+    "real": true
+  },
+  {
+    "name": "Customily",
+    "description": "Making it easy to sell personalized products online.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/c8057663fa98c67ad45f460aa90f60f3fb6495bb.png",
+    "real": true
+  },
+  {
+    "name": "Pipekit",
+    "description": "Pipekit scales data pipelines for enterprises",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/04ac699768ee01bea09ec4c32c01f02b31efebd7.png",
+    "real": true
+  },
+  {
+    "name": "Superwall",
+    "description": "Remotely configure every aspect of your mobile app's paywall",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
+    "real": true
+  },
+  {
+    "name": "hotglue",
+    "description": "Native user-facing SaaS integrations for your customers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/17fad6e0528ee0136eda2c81609b88c573cddeef.png",
+    "real": true
+  },
+  {
+    "name": "Positional",
+    "description": "A Modern Toolset for Content & SEO Teams",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/75fcad3beb96d8a2706d8564e5d492e75be91b66.png",
+    "real": true
+  },
+  {
+    "name": "Hedgehog",
+    "description": "Cryptocurrency Robo-adviser. Buy. Balance. Relax.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3ced67334a53580ec3d2634a3a30bb488a8be131.png",
+    "real": true
+  },
+  {
+    "name": "Blixo",
+    "description": "We help companies get paid faster via order to cash automation",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/387bbc46ef24e2458068251a26e8567f41af9908.png",
+    "real": true
+  },
+  {
+    "name": "Epsilon3",
+    "description": "The OS for spacecraft and complex operations",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6bb6677a8475d7e45f3bdaa25abe71e53f68ffca.png",
+    "real": true
+  },
+  {
+    "name": "Slope",
+    "description": "The B2B Payments Platform",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/de9cfc4baa1105e738c5fdd89eda874363283fed.png",
+    "real": true
+  },
+  {
+    "name": "Openlayer",
+    "description": "Test, debug, and fix your ML models",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/35b3b987d05aeeeea2e5ed41eb9bc474ea3d6529.png",
+    "real": true
+  },
+  {
+    "name": "Palla",
+    "description": "P2P Cross border payments",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3f1d92ba064533486991db02e1726ce77eae0eba.png",
+    "real": true
+  },
+  {
+    "name": "Hyperseed",
+    "description": "Zapier for billing",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/4785c6a546427ae0a36c9b29c741968cd3964ce2.png",
+    "real": true
+  },
+  {
+    "name": "eqtble",
+    "description": "Next-gen HR analytics platform, turning employee data into insights",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/24f8cacce5d2f2682093390e63f96ed44a2c1e4f.png",
+    "real": true
+  },
+  {
+    "name": "Infra",
+    "description": "Modern infrastructure access",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/671c6779ca88b378cecd8b3acf5d16177c8a8009.png",
+    "real": true
+  },
+  {
+    "name": "Chorus Sleep",
+    "description": "Mobile app and coaching program that helps employees sleep better",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2209f1056e08d9a2cdab2f60164a841d0e1ba861.png",
+    "real": true
+  },
+  {
+    "name": "Hightime AI",
+    "description": "AI-native Sales Workspace",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/1cee35b675d707693bab242c9b3a5eb038b6a363.png",
+    "real": true
+  },
+  {
+    "name": "Terra",
+    "description": "Plaid for healthcare",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/97a6c134a2281fc0b76fb07a0fe0c197e4948543.png",
+    "real": true
+  },
+  {
+    "name": "Shepherd",
+    "description": "Modernizing insurance for commercial construction",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/665b8b21bf9557134751457d9fb96959e7d379cd.png",
+    "real": true
+  },
+  {
+    "name": "SwiftSku",
+    "description": "Management and analytics software for convenience stores",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/3bb40b858fa07c3be03a29e849b4171670bbe91c.png",
+    "real": true
+  },
+  {
+    "name": "Bloom",
+    "description": "Investing education app for the next generation.",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/2d21128e3a2a6d5f1c0f5db5fede438273586e9e.png",
+    "real": true
+  },
+  {
+    "name": "Mayan",
+    "description": "A growth automation platform for Amazon sellers",
+    "img": "https://bookface-images.s3.amazonaws.com/small_logos/13362ad0f9fe2210f277eca43146c05172aaf237.png",
+    "real": true
+  },
+  {
+    "name": "SparkGrid",
+    "description": "Scalable and flexible serverless architectures for seamless computing",
+    "img": "/src/assets/logos/SparkGrid.png",
+    "real": false
+  },
+  {
+    "name": "DataZen",
+    "description": "Achieve zen-like simplicity and efficiency in data management with powerful database solutions",
+    "img": "/src/assets/logos/DataZen.png",
+    "real": false
+  },
+  {
+    "name": "Codejet",
+    "description": "Fuse the power of coding and generative AI",
+    "img": "/src/assets/logos/Codejet.png",
+    "real": false
+  },
+  {
+    "name": "Webric",
+    "description": "Decentralized collaboration and secure data sharing through web3",
+    "img": "/src/assets/logos/Webric.png",
+    "real": false
+  },
+  {
+    "name": "Bee",
+    "description": "Proactive alerts to keep your systems safe and secure",
+    "img": "/src/assets/logos/Bee.png",
+    "real": false
+  },
+  {
+    "name": "Pillow",
+    "description": "Log monitoring to detect anomalies in your server's performance",
+    "img": "/src/assets/logos/Pillow.png",
+    "real": false
+  },
+  {
+    "name": "Metamint",
+    "description": "Crafting the Metaverse through Blockchain-powered digital assets",
+    "img": "/src/assets/logos/Metamint.png",
+    "real": false
+  },
+  {
+    "name": "Poppet",
+    "description": "Grow your wealth effortlessly with our intuitive investment platform",
+    "img": "/src/assets/logos/Poppet.png",
+    "real": false
+  },
+  {
+    "name": "Zappify",
+    "description": "Lightning-fast performance and effortless scalability through serverless technology",
+    "img": "/src/assets/logos/Zappify.png",
+    "real": false
+  },
+  {
+    "name": "Whisper",
+    "description": "AI-powered monitoring solutions to listen closely to your systems and detect any anomalies in real-time",
+    "img": "/src/assets/logos/Whisper.png",
+    "real": false
+  },
+  {
+    "name": "Float",
+    "description": "web3 platform that seamlessly integrates AI, enabling you to soar above boundaries and unlock limitless possibilities",
+    "img": "/src/assets/logos/Float.png",
+    "real": false
+  },
+  {
+    "name": "Boost",
+    "description": "Advanced web3 solutions for global asset management",
+    "img": "/src/assets/logos/Boost.png",
+    "real": false
+  },
+  {
+    "name": "Connect",
+    "description": "Connect your systems effortlessly with our AI-driven platform for seamless integration",
+    "img": "/src/assets/logos/Connect.png",
+    "real": false
+  },
+  {
+    "name": "Fizzpop",
+    "description": "Data management with simple ETL tools for efficient processing",
+    "img": "/src/assets/logos/Fizzpop.png",
+    "real": false
+  },
+  {
+    "name": "Whisker",
+    "description": "Navigate customer relationships with precision",
+    "img": "/src/assets/logos/Whisker.png",
+    "real": false
+  },
+  {
+    "name": "Cybertron",
+    "description": "Transform your ideas into stunning apps with the futuristic no-code platform",
+    "img": "/src/assets/logos/Cybertron.png",
+    "real": false
+  },
+  {
+    "name": "Tronix",
+    "description": "Build apps effortlessly with AI-powered no-code technology",
+    "img": "/src/assets/logos/Tronix.png",
+    "real": false
+  },
+  {
+    "name": "Zapcode",
+    "description": "No-code platform for building augmented reality experiences",
+    "img": "/src/assets/logos/Zapcode.png",
+    "real": false
+  },
+  {
+    "name": "Shiftgen",
+    "description": "Shiftgen uses AI to automate shift scheduling and optimize workforce management",
+    "img": "/src/assets/logos/Shiftgen.png",
+    "real": false
+  },
+  {
+    "name": "Minitask",
+    "description": "Project management tool optimized for remote work, designed to help teams stay connected and productive",
+    "img": "/src/assets/logos/Minitask.png",
+    "real": false
+  },
+  {
+    "name": "Wavefront",
+    "description": "Monitors and analyze cloud-based systems at scale",
+    "img": "/src/assets/logos/Wavefront.png",
+    "real": false
+  },
+  {
+    "name": "Blockwaze",
+    "description": "Secures and streamlines logistics management with blockchain technology",
+    "img": "/src/assets/logos/Blockwaze.png",
+    "real": false
+  },
+  {
+    "name": "Atomix",
+    "description": "Distributed database system for quick, reliable data storage and retrieval",
+    "img": "/src/assets/logos/Atomix.png",
+    "real": false
+  },
+  {
+    "name": "Memento",
+    "description": "Provides secure digital asset management for individual clients and businesses",
+    "img": "/src/assets/logos/Memento.png",
+    "real": false
+  },
+  {
+    "name": "Quadio",
+    "description": "Easy-to-use podcast hosting platform with all the features you need",
+    "img": "/src/assets/logos/Quadio.png",
+    "real": false
+  },
+  {
+    "name": "Sweepsy",
+    "description": "Accurate automated transcription services for businesses of all sizes",
+    "img": "/src/assets/logos/Sweepsy.png",
+    "real": false
+  },
+  {
+    "name": "Artilect",
+    "description": "Advanced natural language processing platform.",
+    "img": "/src/assets/logos/Artilect.png",
+    "real": false
+  },
+  {
+    "name": "Brainwave",
+    "description": "Automate and streamline your marketing campaigns with a user-friendly software tool powered by AI.",
+    "img": "/src/assets/logos/Brainwave.png",
+    "real": false
+  },
+  {
+    "name": "Mindmeld",
+    "description": "Improve communication with a natural language understanding AI platform for voice and chat communication.",
+    "img": "/src/assets/logos/Mindmeld.png",
+    "real": false
+  },
+  {
+    "name": "Crayon",
+    "description": "Visualize and analyze customer behavior",
+    "img": "/src/assets/logos/Crayon.png",
+    "real": false
+  },
+  {
+    "name": "Rockpools",
+    "description": "Data analytics platform that provides actionable insights and real-time reporting for businesses",
+    "img": "/src/assets/logos/Rockpools.png",
+    "real": false
+  },
+  {
+    "name": "Flutter",
+    "description": "Find love and meaningful connections through thoughtful matchmaking and personalized profiles",
+    "img": "/src/assets/logos/Flutter.png",
+    "real": false
+  },
+  {
+    "name": "SnailSwap",
+    "description": "Decentralized exchange platform for slow-moving cryptocurrencies",
+    "img": "/src/assets/logos/SnailSwap.png",
+    "real": false
+  },
+  {
+    "name": "Pandapay",
+    "description": "Payment processing platform that allows users to transact with their favorite cryptocurrencies",
+    "img": "/src/assets/logos/Pandapay.png",
+    "real": false
+  }
+]

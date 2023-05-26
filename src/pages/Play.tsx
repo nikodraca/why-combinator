@@ -132,7 +132,7 @@ export const Play: Component = () => {
               }}
             >
               <img
-                src="/src/assets/logo.png"
+                src="/img/logo.png"
                 width={24}
                 height={24}
                 style={{

@@ -44,5 +44,4 @@ export const Header = styled.header`
   width: 100%;
   height: 50px;
   background-color: ${theme.colors.beige};
-  padding-left: 24px;
 `;

@@ -35,7 +35,14 @@ export const Play: Component = () => {
   return (
     <Container>
       <Header>
-        <img src="/img/logo.png" width={25} height={25} />
+        <img
+          src="/img/logo.png"
+          width={25}
+          height={25}
+          style={{
+            "padding-left": "24px"
+          }}
+        />
       </Header>
 
       <Main>

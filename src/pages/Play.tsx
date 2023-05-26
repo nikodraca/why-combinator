@@ -35,7 +35,7 @@ export const Play: Component = () => {
   return (
     <Container>
       <Header>
-        <img src="/src/assets/logo.png" width={25} height={25} />
+        <img src="/img/logo.png" width={25} height={25} />
       </Header>
 
       <Main>

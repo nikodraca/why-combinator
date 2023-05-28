@@ -34,10 +34,8 @@ export const preloadImages = (
     const imageLoader = new Image();
 
     imageLoader.src = src;
-    console.log({ src });
 
     imageLoader.onload = () => {
-      console.log(src + " LOADED");
       loadedCount++;
       if (loadedCount === images.length) {
         onComplete();

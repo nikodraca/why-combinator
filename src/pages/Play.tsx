@@ -53,6 +53,8 @@ export const Play: Component = () => {
     setGame({ ...game(), index: newIndex, score: newScore });
   };
 
+  const gamePct = () => game().index / game().companies.length;
+
   return (
     <Container>
       <Header>
@@ -70,14 +72,16 @@ export const Play: Component = () => {
 
       <Main>
         <Show when={!isLoaded()}>
-          <div>{sample(LOADING_COPY)}</div>
+          <div style={{ width: "100%", "text-align": "center" }}>
+            {sample(LOADING_COPY)}
+          </div>
         </Show>
 
         <Show when={!isGameOver() && isLoaded()}>
           <div
             style={{
+              width: "100%",
               display: "flex",
-              "max-width": "80%",
               "flex-direction": "column",
               "align-items": "center"
             }}
@@ -93,7 +97,9 @@ export const Play: Component = () => {
             <h2>{currentCompany()?.name}</h2>
             <p
               style={{
-                height: "30px",
+                height: "80px",
+                "overflow-y": "scroll",
+                "max-width": "50%",
                 "text-align": "center",
                 "margin-bottom": "50px"
               }}
@@ -129,7 +135,7 @@ export const Play: Component = () => {
             </Button>
           </div>
 
-          <ProgressBar pct={game().index / game().companies.length} />
+          <ProgressBar pct={gamePct} />
         </Show>
 
         {/* GAME OVER */}

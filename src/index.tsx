@@ -3,7 +3,7 @@ import { render } from "solid-js/web";
 import { Router, Routes, Route } from "@solidjs/router";
 
 import "./index.css";
-import { App, Play } from "./pages";
+import { Home, Play } from "./pages";
 
 const root = document.getElementById("root");
 
@@ -17,7 +17,7 @@ render(
   () => (
     <Router>
       <Routes>
-        <Route path="/" component={App} />
+        <Route path="/" component={Home} />
         <Route path="/play" component={Play} />
       </Routes>
     </Router>

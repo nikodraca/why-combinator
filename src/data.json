@@ -4795,7 +4795,7 @@
   },
   {
     "name": "Hivemind",
-    "description": "Anticipate market trends with a dynamic stock market trading platform leveraging AI and machine learning",
+    "description": "Anticipate market trends with a dynamic stock market trading platform leveraging AI and machine learning.",
     "img": "/img/logos/Hivemind.png",
     "real": false
   },
@@ -4863,6 +4863,12 @@
     "name": "Pandapay",
     "description": "Payment processing platform that allows users to transact with their favorite cryptocurrencies",
     "img": "/img/logos/Pandapay.png",
+    "real": false
+  },
+  {
+    "name": "Swift.ai",
+    "description": "AI-powered workforce planning for teams of all sizes",
+    "img": "/img/logos/Swift_ai.png",
     "real": false
   }
 ]

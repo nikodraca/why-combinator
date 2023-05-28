@@ -12,12 +12,6 @@
     "real": true
   },
   {
-    "name": "Flexport",
-    "description": "Platform for global logistics.",
-    "img": "https://bookface-images.s3.amazonaws.com/small_logos/897ef3a983ed364ca3122044cf2d2a92e05b34bb.png",
-    "real": true
-  },
-  {
     "name": "Scale AI",
     "description": "Data-centric infrastructure to accelerate the development of AI",
     "img": "https://bookface-images.s3.amazonaws.com/small_logos/8c45a78eb56f4a95e41a3a77960b00fdfb4cd918.png",
@@ -51,12 +45,6 @@
     "name": "EquipmentShare",
     "description": "Cloud solutions for the construction industry.",
     "img": "https://bookface-images.s3.amazonaws.com/small_logos/ad05853522c217d92c372ba8883ff6b45dd83d99.png",
-    "real": true
-  },
-  {
-    "name": "Retool",
-    "description": "Build internal tools fast.",
-    "img": "https://bookface-images.s3.amazonaws.com/small_logos/0a4773159389a2bd38c10e6e9b5761d0a3666c30.png",
     "real": true
   },
   {

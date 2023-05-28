@@ -3,15 +3,16 @@ import { A } from "@solidjs/router";
 import { sample } from "lodash";
 
 import { Button, Container, Header, Main, Card } from "../components";
-import { createNewGame } from "../utils/game";
+import { createNewGame, preloadImages } from "../utils/game";
 import { Company } from "../types";
 import theme from "../theme";
-import { RESULTS } from "../constants";
+import { LOADING_COPY, RESULTS } from "../constants";
 
 export const Play: Component = () => {
   const [game, setGame] = createSignal(createNewGame());
   const [isGameOver, setIsGameOver] = createSignal(false);
   const [currentCompany, setCurrentCompany] = createSignal<Company>();
+  const [isLoaded, setIsLoaded] = createSignal(false);
 
   createEffect(() => {
     const gameOver = game().index === game().companies.length;
@@ -23,9 +24,20 @@ export const Play: Component = () => {
     setCurrentCompany(game()?.companies[game().index]);
   });
 
-  const handleNext = (isReal: boolean) => {
-    console.log(game());
+  createEffect(() => {
+    // Preload images so there isn't a lag when skipping steps
+    if (!isLoaded()) {
+      const handlePreloadComplete = () => {
+        console.log("Images preloaded!");
+        setIsLoaded(true);
+      };
 
+      const images = game().companies.map(({ img }) => img);
+      preloadImages(images, handlePreloadComplete);
+    }
+  });
+
+  const handleNext = (isReal: boolean) => {
     const newScore =
       currentCompany()?.real === isReal ? game().score + 1 : game().score;
     const newIndex = game().index + 1;
@@ -49,7 +61,11 @@ export const Play: Component = () => {
       </Header>
 
       <Main>
-        <Show when={!isGameOver()}>
+        <Show when={!isLoaded()}>
+          <div>{sample(LOADING_COPY)}</div>
+        </Show>
+
+        <Show when={!isGameOver() && isLoaded()}>
           <div
             style={{
               display: "flex",

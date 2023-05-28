@@ -32,7 +32,7 @@ export const Home: Component = () => {
         }}
       >
         Can you discern between real companies that have raised millions in VC
-        funding and completely made-up techspeak
+        funding and AI-generated jargon?
       </p>
 
       <A href={`/play`}>

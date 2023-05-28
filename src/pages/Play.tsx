@@ -1,10 +1,11 @@
 import { Component, Show, createEffect, createSignal } from "solid-js";
+import { A } from "@solidjs/router";
+import { sample } from "lodash";
 
-import { Button, Container, Header, Main } from "../components";
+import { Button, Container, Header, Main, Card } from "../components";
 import { createNewGame } from "../utils/game";
 import { Company } from "../types";
 import theme from "../theme";
-import { random, sample } from "lodash";
 import { RESULTS } from "../constants";
 
 export const Play: Component = () => {
@@ -35,19 +36,19 @@ export const Play: Component = () => {
   return (
     <Container>
       <Header>
-        <img
-          src="/img/logo.png"
-          width={25}
-          height={25}
-          style={{
-            "padding-left": "24px"
-          }}
-        />
+        <A href="/">
+          <img
+            src="/img/logo.png"
+            width={25}
+            height={25}
+            style={{
+              "padding-left": "24px"
+            }}
+          />
+        </A>
       </Header>
 
       <Main>
-        {/* <span>Score: {game().score}</span> */}
-
         <Show when={!isGameOver()}>
           <div
             style={{
@@ -67,7 +68,7 @@ export const Play: Component = () => {
             <h2>{currentCompany()?.name}</h2>
             <p
               style={{
-                "max-width": "400px",
+                "max-width": "80%",
                 height: "30px",
                 "text-align": "center",
                 "margin-bottom": "50px"
@@ -117,18 +118,7 @@ export const Play: Component = () => {
 
         {/* GAME OVER */}
         <Show when={!!isGameOver()}>
-          <div
-            style={{
-              display: "flex",
-              "flex-direction": "column",
-              "justify-content": "center",
-              "align-items": "center",
-              "background-color": theme.colors.beige,
-              padding: "50px",
-              "border-radius": "10px",
-              "box-shadow": "rgba(99, 99, 99, 0.2) 0px 2px 8px 0px"
-            }}
-          >
+          <Card>
             <div
               style={{
                 display: "flex",
@@ -153,7 +143,7 @@ export const Play: Component = () => {
             </div>
 
             <h1>
-              Score: {game().score}/{game().companies.length}
+              {game().score}/{game().companies.length}
             </h1>
             <p
               style={{
@@ -172,7 +162,7 @@ export const Play: Component = () => {
             >
               Again?
             </Button>
-          </div>
+          </Card>
         </Show>
       </Main>
     </Container>

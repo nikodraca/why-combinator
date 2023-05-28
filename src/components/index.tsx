@@ -18,10 +18,10 @@ export const Button = styled.button`
 `;
 
 export const Main = styled.div`
-  height: 100vh;
   width: 100vw;
   background-color: white;
   display: flex;
+  flex-grow: 1;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -44,4 +44,16 @@ export const Header = styled.header`
   width: 100%;
   height: 50px;
   background-color: ${theme.colors.beige};
+`;
+
+export const Card = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: ${theme.colors.beige};
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  max-width: 50%;
 `;

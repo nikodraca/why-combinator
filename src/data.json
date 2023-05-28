@@ -4602,6 +4602,18 @@
     "real": false
   },
   {
+    "name": "AIQube",
+    "description": "Harness the power of AI algorithms in a compact and efficient package for accelerated data analysis and decision-making.",
+    "img": "/img/logos/AIQube.png",
+    "real": false
+  },
+  {
+    "name": "Synthex",
+    "description": "Real-time natural language processing at scale",
+    "img": "/img/logos/Synthex.png",
+    "real": false
+  },
+  {
     "name": "Webric",
     "description": "Decentralized collaboration and secure data sharing through web3",
     "img": "/img/logos/Webric.png",
@@ -4668,6 +4680,18 @@
     "real": false
   },
   {
+    "name": "Chatterbox",
+    "description": "Build amazing conversational experience with our no-code platform",
+    "img": "/img/logos/Chatterbox.png",
+    "real": false
+  },
+  {
+    "name": "Feather",
+    "description": "Fly high with personalized CRM solutions for effortless customer management",
+    "img": "/img/logos/Feather.png",
+    "real": false
+  },
+  {
     "name": "Whisker",
     "description": "Navigate customer relationships with precision",
     "img": "/img/logos/Whisker.png",
@@ -4686,6 +4710,18 @@
     "real": false
   },
   {
+    "name": "Eon",
+    "description": "Eon provides a decentralized cloud storage solution for enterprise businesses",
+    "img": "/img/logos/Eon.png",
+    "real": false
+  },
+  {
+    "name": "Hexient",
+    "description": "Hexient is a blockchain-based platform for inventory management",
+    "img": "/img/logos/Hexient.png",
+    "real": false
+  },
+  {
     "name": "Zapcode",
     "description": "No-code platform for building augmented reality experiences",
     "img": "/img/logos/Zapcode.png",
@@ -4695,6 +4731,12 @@
     "name": "Shiftgen",
     "description": "Shiftgen uses AI to automate shift scheduling and optimize workforce management",
     "img": "/img/logos/Shiftgen.png",
+    "real": false
+  },
+  {
+    "name": "Brighten",
+    "description": "Brighten SaaS platform for data-driven hiring and candidate management.",
+    "img": "/img/logos/Brighten.png",
     "real": false
   },
   {
@@ -4740,6 +4782,12 @@
     "real": false
   },
   {
+    "name": "Hivemind",
+    "description": "Anticipate market trends with a dynamic stock market trading platform leveraging AI and machine learning.",
+    "img": "/img/logos/Hivemind.png",
+    "real": false
+  },
+  {
     "name": "Artilect",
     "description": "Advanced natural language processing platform.",
     "img": "/img/logos/Artilect.png",
@@ -4758,15 +4806,33 @@
     "real": false
   },
   {
+    "name": "Intellify",
+    "description": "Automate workflows of any size with an AI-powered platform",
+    "img": "/img/logos/Intellify.png",
+    "real": false
+  },
+  {
     "name": "Crayon",
     "description": "Visualize and analyze customer behavior",
     "img": "/img/logos/Crayon.png",
     "real": false
   },
   {
+    "name": "Spotlight",
+    "description": "Identify trends and patterns that might be invisible to the naked eye with a data analytics platform that provides real-time insights for businesses.",
+    "img": "/img/logos/Spotlight.png",
+    "real": false
+  },
+  {
     "name": "Rockpools",
     "description": "Data analytics platform that provides actionable insights and real-time reporting for businesses",
     "img": "/img/logos/Rockpools.png",
+    "real": false
+  },
+  {
+    "name": "Upshot",
+    "description": "Web-based interface design tool for teams of all sizes",
+    "img": "/img/logos/Upshot.png",
     "real": false
   },
   {

@@ -42,7 +42,7 @@ export const RESULTS = [
     "Breaking through the barrier of insignificance with a two-point feat!",
     "Double the points, double the lukewarmness. Almost there!",
     "Two points closer to greatness... or at least averageness.",
-    "You've unlocked the 'Two-Point Dynamo' badge. Excitement...muted."
+    "This isn't going to look great on your performance review..."
   ],
   [
     "Three points! Your performance reaches the realm of mild adequacy.",

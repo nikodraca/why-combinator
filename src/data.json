@@ -4632,6 +4632,12 @@
     "real": false
   },
   {
+    "name": "Snuggle",
+    "description": "Secure your retirement future with our simplified planning tools",
+    "img": "/img/logos/Snuggle.png",
+    "real": false
+  },
+  {
     "name": "Zappify",
     "description": "Lightning-fast performance and effortless scalability through serverless technology",
     "img": "/img/logos/Zappify.png",
@@ -4659,6 +4665,12 @@
     "name": "Connect",
     "description": "Connect your systems effortlessly with our AI-driven platform for seamless integration",
     "img": "/img/logos/Connect.png",
+    "real": false
+  },
+  {
+    "name": "Blibber",
+    "description": "Transform your data ecosystem with interactive ETL tools for seamless integration",
+    "img": "/img/logos/Blibber.png",
     "real": false
   },
   {
@@ -4770,8 +4782,20 @@
     "real": false
   },
   {
+    "name": "Datascape",
+    "description": "Big data analytics solutions to help businesses reduce costs, increase revenue, and improve customer satisfaction",
+    "img": "/img/logos/Datascape.png",
+    "real": false
+  },
+  {
+    "name": "Lifegrid",
+    "description": "Helps individuals customize their health journeys with a wellness platform",
+    "img": "/img/logos/Lifegrid.png",
+    "real": false
+  },
+  {
     "name": "Hivemind",
-    "description": "Anticipate market trends with a dynamic stock market trading platform leveraging AI and machine learning.",
+    "description": "Anticipate market trends with a dynamic stock market trading platform leveraging AI and machine learning",
     "img": "/img/logos/Hivemind.png",
     "real": false
   },

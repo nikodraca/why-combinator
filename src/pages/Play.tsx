@@ -21,11 +21,17 @@ export const Play: Component = () => {
   const [isGameOver, setIsGameOver] = createSignal(false);
   const [currentCompany, setCurrentCompany] = createSignal<Company>();
   const [isLoaded, setIsLoaded] = createSignal(false);
+  const [endGameCopy, setEndGameCopy] = createSignal("");
 
   createEffect(() => {
     const gameOver = game().index === game().companies.length;
 
     setIsGameOver(gameOver);
+
+    if (!!gameOver) {
+      const endCopy = sample(RESULTS[game().score]);
+      setEndGameCopy(endCopy!);
+    }
   });
 
   createEffect(() => {
@@ -167,23 +173,41 @@ export const Play: Component = () => {
             <h1>
               {game().score}/{game().companies.length}
             </h1>
-            <p
-              style={{
-                "max-width": "400px",
-                height: "30px",
-                "text-align": "center",
-                "margin-bottom": "75px"
-              }}
-            >
-              {sample(RESULTS[game().score])}
-            </p>
-            <Button
-              onClick={() => {
-                setGame(createNewGame());
-              }}
-            >
-              Again?
-            </Button>
+
+            <Show when={!!endGameCopy()}>
+              <p
+                style={{
+                  "max-width": "400px",
+                  height: "30px",
+                  "text-align": "center"
+                }}
+              >
+                {endGameCopy()}
+              </p>
+            </Show>
+
+            <div style={{ "margin-top": "75px" }}>
+              <a
+                style={{ "margin-right": "12px" }}
+                href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
+                  `I scored ${game().score}/${
+                    game().companies.length
+                  } on why-combinator.com: ${endGameCopy()}`
+                )}`}
+                target="_blank"
+              >
+                Tweet
+              </a>
+
+              <Button
+                onClick={() => {
+                  setGame(createNewGame());
+                  setEndGameCopy("");
+                }}
+              >
+                Again?
+              </Button>
+            </div>
           </Card>
         </Show>
       </Main>

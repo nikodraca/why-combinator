@@ -45,3 +45,5 @@ export const Card = styled.div`
 
 export { Button, ButtonType } from "./Button";
 export { ProgressBar } from "./ProgressBar";
+export { CurrentCompany } from "./CurrentCompany";
+export { GameOver } from "./GameOver";

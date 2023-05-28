@@ -1,4 +1,10 @@
-import { Component, Show, createEffect, createSignal } from "solid-js";
+import {
+  Accessor,
+  Component,
+  Show,
+  createEffect,
+  createSignal
+} from "solid-js";
 import { A } from "@solidjs/router";
 import { sample } from "lodash";
 
@@ -8,12 +14,12 @@ import {
   Container,
   Header,
   Main,
-  Card,
-  ProgressBar
+  ProgressBar,
+  CurrentCompany,
+  GameOver
 } from "../components";
 import { createNewGame, preloadImages } from "../utils/game";
 import { Company } from "../types";
-import theme from "../theme";
 import { LOADING_COPY, RESULTS } from "../constants";
 
 export const Play: Component = () => {
@@ -61,6 +67,10 @@ export const Play: Component = () => {
 
   const gamePct = () => game().index / game().companies.length;
 
+  const handleNewGame = () => {
+    setGame(createNewGame());
+    setEndGameCopy("");
+  };
   return (
     <Container>
       <Header>
@@ -83,36 +93,8 @@ export const Play: Component = () => {
           </div>
         </Show>
 
-        <Show when={!isGameOver() && isLoaded()}>
-          <div
-            style={{
-              width: "100%",
-              display: "flex",
-              "flex-direction": "column",
-              "align-items": "center"
-            }}
-          >
-            <img
-              src={currentCompany()?.img}
-              width={75}
-              height={75}
-              style={{
-                "border-radius": "50%"
-              }}
-            />
-            <h2>{currentCompany()?.name}</h2>
-            <p
-              style={{
-                height: "80px",
-                "overflow-y": "scroll",
-                "max-width": "50%",
-                "text-align": "center",
-                "margin-bottom": "50px"
-              }}
-            >
-              {currentCompany()?.description}
-            </p>
-          </div>
+        <Show when={!isGameOver() && isLoaded() && !!currentCompany()}>
+          <CurrentCompany company={currentCompany as Accessor<Company>} />
 
           <div
             style={{
@@ -146,69 +128,11 @@ export const Play: Component = () => {
 
         {/* GAME OVER */}
         <Show when={!!isGameOver()}>
-          <Card>
-            <div
-              style={{
-                display: "flex",
-                "flex-direction": "row",
-                "justify-content": "center",
-                "align-items": "center",
-                "margin-bottom": "50px"
-              }}
-            >
-              <img
-                src="/img/logo.png"
-                width={24}
-                height={24}
-                style={{
-                  "margin-right": "12px"
-                }}
-              />
-              <h3>
-                Why{" "}
-                <span style={{ color: theme.colors.orange }}>Combinator</span>
-              </h3>
-            </div>
-
-            <h1>
-              {game().score}/{game().companies.length}
-            </h1>
-
-            <Show when={!!endGameCopy()}>
-              <p
-                style={{
-                  "max-width": "400px",
-                  height: "30px",
-                  "text-align": "center"
-                }}
-              >
-                {endGameCopy()}
-              </p>
-            </Show>
-
-            <div style={{ "margin-top": "75px" }}>
-              <a
-                style={{ "margin-right": "12px" }}
-                href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
-                  `I scored ${game().score}/${
-                    game().companies.length
-                  } on why-combinator.com: ${endGameCopy()}`
-                )}`}
-                target="_blank"
-              >
-                Tweet
-              </a>
-
-              <Button
-                onClick={() => {
-                  setGame(createNewGame());
-                  setEndGameCopy("");
-                }}
-              >
-                Again?
-              </Button>
-            </div>
-          </Card>
+          <GameOver
+            game={game}
+            endGameCopy={endGameCopy}
+            handleNewGame={handleNewGame}
+          />
         </Show>
       </Main>
     </Container>

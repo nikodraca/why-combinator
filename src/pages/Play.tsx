@@ -2,12 +2,19 @@ import { Component, Show, createEffect, createSignal } from "solid-js";
 import { A } from "@solidjs/router";
 import { sample } from "lodash";
 
-import { Button, Container, Header, Main, Card } from "../components";
+import {
+  Button,
+  ButtonType,
+  Container,
+  Header,
+  Main,
+  Card,
+  ProgressBar
+} from "../components";
 import { createNewGame, preloadImages } from "../utils/game";
 import { Company } from "../types";
 import theme from "../theme";
 import { LOADING_COPY, RESULTS } from "../constants";
-import { ButtonType } from "../components/Button";
 
 export const Play: Component = () => {
   const [game, setGame] = createSignal(createNewGame());
@@ -26,10 +33,10 @@ export const Play: Component = () => {
   });
 
   createEffect(() => {
-    // Preload images so there isn't a lag when skipping steps
+    // Preload images so there isn't a lag when progressing
+    // This should probably be in CDN but I'm lazy
     if (!isLoaded()) {
       const handlePreloadComplete = () => {
-        console.log("Images preloaded!");
         setIsLoaded(true);
       };
 
@@ -122,17 +129,7 @@ export const Play: Component = () => {
             </Button>
           </div>
 
-          {/* PROGRESS BAR */}
-          <div
-            style={{
-              position: "fixed",
-              bottom: "0",
-              left: "0",
-              "background-color": theme.colors.orange,
-              height: "12px",
-              width: `${(game().index / game().companies.length) * 100}%`
-            }}
-          ></div>
+          <ProgressBar pct={game().index / game().companies.length} />
         </Show>
 
         {/* GAME OVER */}

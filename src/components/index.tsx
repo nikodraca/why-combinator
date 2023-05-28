@@ -43,4 +43,5 @@ export const Card = styled.div`
   max-width: 50%;
 `;
 
-export { Button } from "./Button";
+export { Button, ButtonType } from "./Button";
+export { ProgressBar } from "./ProgressBar";

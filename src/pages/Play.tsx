@@ -7,6 +7,7 @@ import { createNewGame, preloadImages } from "../utils/game";
 import { Company } from "../types";
 import theme from "../theme";
 import { LOADING_COPY, RESULTS } from "../constants";
+import { ButtonType } from "../components/Button";
 
 export const Play: Component = () => {
   const [game, setGame] = createSignal(createNewGame());
@@ -69,6 +70,7 @@ export const Play: Component = () => {
           <div
             style={{
               display: "flex",
+              "max-width": "80%",
               "flex-direction": "column",
               "align-items": "center"
             }}
@@ -84,7 +86,6 @@ export const Play: Component = () => {
             <h2>{currentCompany()?.name}</h2>
             <p
               style={{
-                "max-width": "80%",
                 height: "30px",
                 "text-align": "center",
                 "margin-bottom": "50px"
@@ -103,6 +104,7 @@ export const Play: Component = () => {
             }}
           >
             <Button
+              buttonType={ButtonType.DANGER}
               onClick={() => {
                 handleNext(false);
               }}
@@ -111,6 +113,7 @@ export const Play: Component = () => {
             </Button>
 
             <Button
+              buttonType={ButtonType.SUCCESS}
               onClick={() => {
                 handleNext(true);
               }}

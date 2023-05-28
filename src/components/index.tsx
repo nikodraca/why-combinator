@@ -2,21 +2,6 @@ import { styled } from "solid-styled-components";
 
 import theme from "../theme";
 
-export const Button = styled.button`
-  text-decoration: none;
-  color: ${theme.colors.white};
-  background-color: ${theme.colors.lightOrange};
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  font-weight: bold;
-  cursor: pointer;
-
-  &:hover {
-    background-color: ${theme.colors.orange};
-  }
-`;
-
 export const Main = styled.div`
   width: 100vw;
   background-color: white;
@@ -57,3 +42,5 @@ export const Card = styled.div`
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   max-width: 50%;
 `;
+
+export { Button } from "./Button";

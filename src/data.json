@@ -396,12 +396,6 @@
     "real": true
   },
   {
-    "name": "Instabug",
-    "description": "Mobile Apps Observability and Performance Monitoring Platform",
-    "img": "https://bookface-images.s3.amazonaws.com/small_logos/891bf2cd461f7e0ea63438afa0048989e0e8926b.png",
-    "real": true
-  },
-  {
     "name": "VergeSense",
     "description": "AI-Powered Building Management",
     "img": "https://bookface-images.s3.amazonaws.com/small_logos/8ae8f5a94af62b1cae1e783c5ea5dc76b3ccc975.png",
@@ -417,12 +411,6 @@
     "name": "Routable",
     "description": "Simplifying payouts at scale",
     "img": "https://bookface-images.s3.amazonaws.com/small_logos/91b6076921a7439ff3b490dee3e269710a65a792.png",
-    "real": true
-  },
-  {
-    "name": "HackerRank",
-    "description": "Accelerate the World's Innovation",
-    "img": "https://bookface-images.s3.amazonaws.com/small_logos/6df4cc84a7b27db9480fd2d7bff6fa62ff56aacb.png",
     "real": true
   },
   {
@@ -4110,12 +4098,6 @@
     "real": true
   },
   {
-    "name": "Apollo",
-    "description": "The card that rewards you with stock",
-    "img": "https://bookface-images.s3.amazonaws.com/small_logos/e07c36d3a9cd114a6e105e8b128004ab25b67d2f.png",
-    "real": true
-  },
-  {
     "name": "Ruta Health",
     "description": "Async personalized and actionable health education by real doctors",
     "img": "https://bookface-images.s3.amazonaws.com/small_logos/9b723a38aaac3c710ea89080d5f1dfb58cad131d.png",
@@ -4651,7 +4633,7 @@
   },
   {
     "name": "Float",
-    "description": "web3 platform that seamlessly integrates AI, enabling you to soar above boundaries and unlock limitless possibilities",
+    "description": "web3 platform for identity federation",
     "img": "/img/logos/Float.png",
     "real": false
   },
@@ -4663,7 +4645,7 @@
   },
   {
     "name": "Connect",
-    "description": "Connect your systems effortlessly with our AI-driven platform for seamless integration",
+    "description": "Connect your systems effortlessly with our AI-driven platform",
     "img": "/img/logos/Connect.png",
     "real": false
   },
